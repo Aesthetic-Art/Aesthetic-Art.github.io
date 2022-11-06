@@ -1,2 +1,1 @@
-
-Coming soon...
+This is the official landing page of Aesthetic Art
