@@ -15,6 +15,7 @@ body{
 #navbar-list{
     width: 50%;
     list-style-type: none;
+    display: flex;
 }
 
 .navbar-item{
