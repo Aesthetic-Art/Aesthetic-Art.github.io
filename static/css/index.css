@@ -16,7 +16,7 @@ body{
     height:100px;
 }
 
-#navbar-list{
+#navbar-list-items{
     width: 50%;
     list-style-type: none;
     display: flex;
