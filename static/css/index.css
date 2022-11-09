@@ -19,7 +19,7 @@ body{
     list-style-type: none;
     display: flex;
     align-items: center;
-
+    align-content: flex-start;
 }
 
 .navbar-item{
