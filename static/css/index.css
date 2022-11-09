@@ -21,7 +21,6 @@ body{
     list-style-type: none;
     display: flex;
     align-items: center;
-    text-align: right;
 }
 
 .navbar-item{
