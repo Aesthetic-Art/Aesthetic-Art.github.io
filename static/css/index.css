@@ -14,7 +14,7 @@ body{
 
 #navbar-list{
     width: 50%;
-    sty
+    list-style-type: none;
 }
 
 .navbar-item{
