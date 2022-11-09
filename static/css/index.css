@@ -18,11 +18,11 @@ body{
     list-style-type: none;
     display: flex;
     align-items: center;
-    
+
 }
 
 .navbar-item{
-    margin-left: 20px;
+    margin-left: 30px;
     font-family: 'Poppins';
     font-weight: 600;
 }
