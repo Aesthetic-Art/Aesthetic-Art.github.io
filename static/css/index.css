@@ -16,6 +16,6 @@ body{
 }
 
 .navbar-item{
-    fony
+    font-family: '';
     font-weight: 600;
 }
