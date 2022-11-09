@@ -18,6 +18,7 @@ body{
 
 #navbar-list{
     width: 50%;
+    align-items: center;
 }
 
 #navbar-list-items{
