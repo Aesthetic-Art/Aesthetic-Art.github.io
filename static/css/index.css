@@ -16,8 +16,11 @@ body{
     height:100px;
 }
 
-#navbar-list-items{
+#navbar-list{
     width: 50%;
+}
+
+#navbar-list-items{
     list-style-type: none;
     display: flex;
     align-items: center;
