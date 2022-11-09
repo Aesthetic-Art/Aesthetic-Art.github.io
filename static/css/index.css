@@ -11,7 +11,7 @@ body{
 #logo{
     width: 50%;
     height:100px;
-    align-self: flex-start;
+    align-self: flex-end;
 }
 
 #navbar-list{
