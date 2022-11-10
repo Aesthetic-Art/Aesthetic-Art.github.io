@@ -46,3 +46,6 @@ body{
     flex-direction: column;
 }
 
+#intro-svg{
+    height: 300px;
+}
