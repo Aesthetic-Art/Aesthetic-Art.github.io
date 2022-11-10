@@ -20,6 +20,7 @@ body{
     width: 50%;
     align-items: center;
     justify-content: flex-end;
+    display: flex;
 }
 
 #navbar-list-items{
