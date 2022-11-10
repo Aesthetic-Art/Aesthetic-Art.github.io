@@ -46,9 +46,6 @@ body{
     flex-direction: column;
 }
 
-#intro-img{
-    align-self: flex-end;
-}
 
 #intro-svg{
     height: 700px;
