@@ -93,7 +93,10 @@ body{
 #about-svg{
     height: 500px;
 }
-#about
+
+#about-title{
+    width: 50%;
+}
 
 #about-heading{
     font-family: 'Montserrat', sans-serif;
