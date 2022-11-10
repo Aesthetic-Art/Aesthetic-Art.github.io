@@ -60,7 +60,7 @@ body{
 #intro-img{
     width: 70%;
     margin-right: -30px !important;  
-    justify-content: flex-end;
+    justify-content: right;
 } 
 
 #intro-svg{
