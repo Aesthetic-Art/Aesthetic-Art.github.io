@@ -52,7 +52,9 @@ body{
     flex-direction: column;
 }
 
-#intro
+#intro-heading{
+    font-family: ;
+}
 
 #intro-img{
     margin-right: -30px !important;  
