@@ -3,6 +3,10 @@ body{
     background-color: #FCDEC0;
 }
 
+* {
+    
+}
+
 #navbar{
     display: flex;
     margin-top: 50px;
