@@ -41,9 +41,8 @@ body{
 }
 
 #intro{
-    margin-top: 50px;
+    margin-top: 75px;
     display: flex;
-    align-items: center;
 }
 
 #intro-txt{
