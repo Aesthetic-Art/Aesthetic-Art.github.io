@@ -47,7 +47,7 @@ body{
 }
 
 #intro-txt{
-    width: 40%;
+    width: 45%;
     display: flex;
     flex-direction: column;
 }
@@ -58,7 +58,7 @@ body{
 }
 
 #intro-img{
-    width: 60%;
+    width: 55%;
     margin-right: -30px !important;  
     justify-content: right;
 } 
