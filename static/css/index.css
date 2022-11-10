@@ -43,5 +43,5 @@ body{
 
 #intro-txt{
     display: flex;
-    flex-direction: ;
+    flex-direction: column;
 }
