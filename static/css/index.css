@@ -47,7 +47,7 @@ body{
 }
 
 #intro-img{
-    align-content: flex-end;
+    align-self: flex-end;
 }
 
 #intro-svg{
