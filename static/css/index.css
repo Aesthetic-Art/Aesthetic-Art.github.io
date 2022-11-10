@@ -83,6 +83,7 @@ body{
 #about-header{
     display: flex;
     margin-top: 100px;
+    align-items: center;
 }
 
 #about-img{
