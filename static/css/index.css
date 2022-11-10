@@ -52,6 +52,8 @@ body{
     flex-direction: column;
 }
 
+#intro
+
 #intro-img{
     margin-right: -30px !important;  
 } 
