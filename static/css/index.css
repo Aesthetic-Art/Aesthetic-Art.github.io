@@ -42,5 +42,6 @@ body{
 }
 
 #intro-txt{
-    width
+    display: flex;
+    flex-direction: ;
 }
