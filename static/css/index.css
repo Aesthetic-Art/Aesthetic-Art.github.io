@@ -38,7 +38,9 @@ body{
 }
 
 #intro{
+    margin-top: 50px;
     display: flex;
+    align-items: center;
 }
 
 #intro-txt{
