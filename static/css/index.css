@@ -140,7 +140,8 @@ body{
 .product-summary{
     font-family: 'Poppins', sans-serif;
     font-weight: light;
-    font
+    font-size: 15px;
+    color: ;
 }
 
 #spotify-plaque-container{
