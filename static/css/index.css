@@ -145,7 +145,7 @@ body{
 
 .product-info{
     width: 30%;
-    justify-content: left;
+    text-align: left;
 }
 
 .product-title{
