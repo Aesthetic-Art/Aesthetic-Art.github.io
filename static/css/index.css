@@ -130,7 +130,9 @@ body{
     background-color: #7D5A50;
 }
 
-
+.product-title{
+    font-family: 'Poppins';
+}
 
 #spotify-plaque-container{
     display: flex;
