@@ -141,7 +141,7 @@ body{
 .product-container{
     display: flex;
     justify-content: space-between;
-    position:;
+    position:static;
 
 .product-info{
     width: 30%;
