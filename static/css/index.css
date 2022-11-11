@@ -125,4 +125,6 @@ body{
     color: white;
 }
 
-.product
+.product-panel{
+    display: flex;
+}
