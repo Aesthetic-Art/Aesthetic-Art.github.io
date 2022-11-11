@@ -257,7 +257,7 @@ body{
     margin-top: 400px;
 }
 
-#-img{
+#bookmarks-img{
     left: 620px;
     bottom: 80px;
 }
@@ -271,7 +271,7 @@ body{
     flex-direction: row-reverse
 }
 
-#-info{
+#bookmarks-info{
     margin-left: 50px;
 }
 
