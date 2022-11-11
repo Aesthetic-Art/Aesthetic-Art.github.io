@@ -139,7 +139,6 @@ body{
 .product-container{
     display: flex;
     justify-content: space-between;
-    justify-self: center;
 }
 
 .product-info{
