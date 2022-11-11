@@ -262,12 +262,12 @@ body{
     bottom: 80px;
 }
 
-#mobile-backcover-img{
+#polaroids-img{
     right: 650px;
     top: 30px;
 }
 
-#mobile-backcover-container{
+#polaroids-container{
     flex-direction: row-reverse
 }
 
@@ -275,7 +275,7 @@ body{
     margin-left: 50px;
 }
 
-#mobile-backcover-info{
+#polaroids-info{
     margin-right: 50px;
 }
 
