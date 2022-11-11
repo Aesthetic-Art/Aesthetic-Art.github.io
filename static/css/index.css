@@ -127,6 +127,7 @@ body{
 
 .product-panel{
     display: flex;
+    background-color: #7D5A50;
 }
 
 #spotify-plaque-container{
