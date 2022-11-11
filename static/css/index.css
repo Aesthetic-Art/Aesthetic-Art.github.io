@@ -139,6 +139,7 @@ body{
 .product-container{
     display: flex;
     justify-content: space-between;
+    justify-self: vr;
 }
 
 .product-info{
