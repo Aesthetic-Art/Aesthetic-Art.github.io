@@ -253,6 +253,31 @@ body{
     margin-right: 50px;
 }
 
+#product-panel-3{
+    margin-top: 400px;
+}
+
+#vintage-brass-frame-img{
+    left: 620px;
+    bottom: 80px;
+}
+
+#mobile-backcover-img{
+    right: 650px;
+    top: 30px;
+}
+
+#mobile-backcover-container{
+    flex-direction: row-reverse
+}
+
+#vintage-brass-frame-info{
+    margin-left: 50px;
+}
+
+#mobile-backcover-info{
+    margin-right: 50px;
+}
 
 
 
