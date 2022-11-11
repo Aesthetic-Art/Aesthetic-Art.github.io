@@ -154,6 +154,7 @@ body{
     font-weight: bold;
     background-color: #B4846C;
     color: white;
+    border: none;
 }
 
 #spotify-plaque-container{
