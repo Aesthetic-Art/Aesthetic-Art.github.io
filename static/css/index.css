@@ -148,6 +148,7 @@ body{
 .product-info{
     width: 30%;
     text-align: left;
+    margin-left: 50px;
 }
 
 .product-title{
