@@ -176,7 +176,7 @@ body{
 .product-img{
     margin-right: -20px !important;
     margin-bottom: 100px !important;
-    position:fixed;
+    position:relative;
 }
 
 
