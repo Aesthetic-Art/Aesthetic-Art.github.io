@@ -133,8 +133,8 @@ body{
 .product-panel{
     display: flex;
     background-color: #7D5A50;
-    width:90%
-    just
+    width:90%;
+    justify-content: space-between;
 }
 
 .product-info{
