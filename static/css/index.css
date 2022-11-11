@@ -257,7 +257,7 @@ body{
     margin-top: 400px;
 }
 
-#vintage-brass-frame-img{
+#-img{
     left: 620px;
     bottom: 80px;
 }
@@ -271,7 +271,7 @@ body{
     flex-direction: row-reverse
 }
 
-#vintage-brass-frame-info{
+#-info{
     margin-left: 50px;
 }
 
