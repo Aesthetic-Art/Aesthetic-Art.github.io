@@ -151,8 +151,6 @@ body{
     text-align: left;
 }
 
-
-
 .product-title{
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
@@ -223,6 +221,10 @@ body{
 
 #transparent-frame-info{
     margin-right: 50px;
+}
+
+#spotify-plaque-info{
+    margin-left: 50px;
 }
 
 
