@@ -140,6 +140,7 @@ body{
 }
 
 .product-container{
+    margin: auto;
     display: flex;
     justify-content: space-between;
 }
