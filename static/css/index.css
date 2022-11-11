@@ -280,6 +280,7 @@ body{
 }
 
 #contact{
+    display: flex;
     margin-top: 300px;
     align-items: center;
 }
