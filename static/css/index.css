@@ -128,7 +128,7 @@ body{
 .product-panel{
     display: flex;
     background-color: #7D5A50;
-    width:70
+    width:80%
 }
 
 .product-info{
