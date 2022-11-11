@@ -142,6 +142,7 @@ body{
     display: flex;
     justify-content: space-between;
     position: relative;
+    height: ;
 }
 .product-info{
     width: 30%;
