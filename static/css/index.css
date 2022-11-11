@@ -166,7 +166,7 @@ body{
 }
 
 .product-img{
-    justify-content: flex-end;
+    justify-content: right;
 }
 
 .product-img-outer-box{
