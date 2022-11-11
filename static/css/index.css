@@ -143,6 +143,7 @@ body{
     justify-content: space-between;
     position: relative;
     height: 700px;
+    margin: auto;
 }
 .product-info{
     width: 30%;
