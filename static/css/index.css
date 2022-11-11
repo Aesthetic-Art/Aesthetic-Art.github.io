@@ -206,6 +206,11 @@ body{
     height: 500px;
 }
 
+#spotify-plaque-svg{
+    left: 607px;
+    bottom: 120px;
+}
+
 #transparent-frame-container{
     flex-direction: row-reverse;
 }
