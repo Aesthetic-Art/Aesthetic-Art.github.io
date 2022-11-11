@@ -126,6 +126,10 @@ body{
     color: white;
 }
 
+#products{
+    margin-top: 100px;
+}
+
 .product-panel{
     display: flex;
     background-color: #7D5A50;
