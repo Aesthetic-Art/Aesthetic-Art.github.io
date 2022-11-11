@@ -173,7 +173,8 @@ body{
 .product-img-inner-box{
     border: 1px solid white;
     padding-left: 50px;
-    padding
+    padding-right: 50px;
+    padding-top: ;
 }
 
 .product-svg{
