@@ -237,6 +237,10 @@ body{
     top: 30px;
 }
 
+#transparent-frame-container{
+    flex-direction: row-reverse;
+}
+
 
 
 
