@@ -128,3 +128,7 @@ body{
 .product-panel{
     display: flex;
 }
+
+#spotify-plaque-container{
+    display: flex;
+}
