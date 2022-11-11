@@ -134,7 +134,10 @@ body{
     display: flex;
     background-color: #7D5A50;
     width:90%;
-    justify-content: space-between;
+}
+
+.product-container{
+    just
 }
 
 .product-info{
