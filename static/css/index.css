@@ -245,6 +245,10 @@ body{
     flex-direction: row-reverse;
 }
 
+#vin-info{
+    margin-left: 50px;
+}
+
 
 
 
