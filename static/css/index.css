@@ -141,6 +141,7 @@ body{
 
 .product-container{
     display: flex;
+    align-items: ;
     justify-content: space-between;
 }
 
