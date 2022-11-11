@@ -227,10 +227,17 @@ body{
     margin-left: 50px;
 }
 
+#spotify-plaque-img{
+    left: 620px;
+    bottom: 80px;
+}
+
 #mobile-backcover-img{
     right: 650px;
     top: 30px;
 }
+
+
 
 
 
