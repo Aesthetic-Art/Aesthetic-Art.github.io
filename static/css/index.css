@@ -131,7 +131,9 @@ body{
 }
 
 .product-title{
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    
 }
 
 #spotify-plaque-container{
