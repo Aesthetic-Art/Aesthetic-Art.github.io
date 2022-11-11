@@ -288,4 +288,5 @@ body{
 
 #contact-icons{
     margin-top: 50px;
+    display: flex;
 }
