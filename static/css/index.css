@@ -166,7 +166,8 @@ body{
 }
 
 .product-img{
-    align-content: flex-end;
+    text-align: right;
+}
 }
 
 .product-img-outer-box{
