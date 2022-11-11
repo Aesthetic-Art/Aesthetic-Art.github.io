@@ -173,6 +173,10 @@ body{
     border: 1px solid white;
 }
 
+.product-svg{
+    height: ;
+}
+
 #spotify-plaque-container{
     display: flex;
 }
