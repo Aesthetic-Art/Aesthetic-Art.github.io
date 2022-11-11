@@ -170,7 +170,7 @@ body{
 }
 
 .product-img{
-    
+    justify-self: flex-end;
 }
 
 
