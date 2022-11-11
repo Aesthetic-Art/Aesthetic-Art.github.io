@@ -132,6 +132,7 @@ body{
 
 .product-panel{
     display: flex;
+    flex-direction: column;
     background-color: #7D5A50;
     width:90%;
     text-align: center;
