@@ -284,6 +284,7 @@ body{
     flex-direction: column;
     margin-top: 300px;
     align-items: center;
+    justify-content: center;
 }
 
 #contact-icons{
