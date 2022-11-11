@@ -167,6 +167,7 @@ body{
 
 .product-img-outer-box{
     background-color: #B4846C;
+    height: ;
 }
 
 .product-img-inner-box{
@@ -174,7 +175,6 @@ body{
 }
 
 .product-svg{
-    height: 100px;
 }
 
 #spotify-plaque-container{
