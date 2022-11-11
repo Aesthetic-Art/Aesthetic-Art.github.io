@@ -210,6 +210,10 @@ body{
     bottom: 80px;
 }
 
+#spotify-plaque-info{
+    margin-left: 50px;
+}
+
 #transparent-frame-container{
     flex-direction: row-reverse;
 }
