@@ -137,11 +137,11 @@ body{
     width:90%;
     align-items: center;
     justify-content: center;
+    align-content: center;
 }
 
 .product-container{
     display: flex;
-    align-self: center;
     justify-content: space-between;
 }
 
