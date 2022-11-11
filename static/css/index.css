@@ -159,6 +159,8 @@ body{
     font-weight: light;
     font-size: 25px;
     color: #C3C3C3;
+
+    text-align: left;
 }
 
 .product-view-btn{
