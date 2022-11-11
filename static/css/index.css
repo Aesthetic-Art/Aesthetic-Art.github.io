@@ -137,7 +137,7 @@ body{
 }
 
 .product-container{
-    just
+    display: flex;
 }
 
 .product-info{
