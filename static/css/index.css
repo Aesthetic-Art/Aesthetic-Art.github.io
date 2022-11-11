@@ -167,7 +167,10 @@ body{
 
 .product-img-outer-box{
     background-color: #B4846C;
-    padding: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .product-img-inner-box{
