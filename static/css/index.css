@@ -12,6 +12,7 @@ body{
 .sub-heading{
     font-family: 'Montserrat', sans-serif;
     font-size: 70px;
+    color: #7D5A50;
 }
 
 #navbar{
@@ -105,9 +106,7 @@ body{
 }
 
 #about-heading{
-   
     text-align: right;
-    color: #7D5A50;
 }
 
 #about-body{
