@@ -174,7 +174,8 @@ body{
     border: 1px solid white;
     padding-left: 50px;
     padding-right: 50px;
-    padding-top: ;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
 
 .product-svg{
