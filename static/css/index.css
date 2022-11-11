@@ -135,12 +135,9 @@ body{
     flex-direction: column;
     background-color: #7D5A50;
     width:90%;
-    align-items: center;
-    justify-content: center;
 }
 
 .product-container{
-    margin: auto;
     display: flex;
     justify-content: space-between;
 }
