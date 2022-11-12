@@ -1,4 +1,4 @@
-const Reviews
+const reviews = [{}]
 
 let nextReview = document.querySelector('.review-next')
 let previousReview=document.querySelector('.review-previous')
