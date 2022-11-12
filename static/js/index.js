@@ -8,7 +8,7 @@ let reviewCounter = 1
 
 function showNextReview() {
     reviewName.innerHTML = "Sarthak"
-    reviewImg.src='./s'
+    reviewImg.src='./static/media/'
 }
 
 nextReview.addEventListener('click', showNextReview, false)
