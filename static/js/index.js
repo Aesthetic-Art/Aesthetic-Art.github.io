@@ -5,7 +5,7 @@ let reviewName = document.querySelector('.review-name')
 let reviewImg = document.querySelector('.review-img')
 let reviewTxt = document.querySelector('.review-txt')
 
-for (const reviewDot o)
+for (let i=)
 
 function showNextReview() {
     let i=1
