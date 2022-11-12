@@ -421,6 +421,10 @@ body{
     transition: 0.7s;
 }
 
+.review-previous:hover{
+    transform: rotate(360deg);
+}
+
 .review-next{
     height: 50px;
     align-self: center;
