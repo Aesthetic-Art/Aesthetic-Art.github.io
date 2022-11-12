@@ -44,8 +44,8 @@ function showNextReview() {
 
     let i=1
     reviewName.innerHTML = reviews[reviewCounter-1]['name']
-    reviewImg.src = reviews[reviewCounter-1]['name']
-    reviewTxt.innerHTML = reviews[reviewCounter-1]['name']
+    reviewImg.src = reviews[reviewCounter-1]['image']
+    reviewTxt.innerHTML = reviews[reviewCounter-1]['text']
 
     if (reviewCounter == 1) {
         previousReview.firstElementChild.style.color="white"
