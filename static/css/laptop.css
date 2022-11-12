@@ -244,14 +244,14 @@ body{
 .product-title{
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 25px;
     color: white;
 }
 
 .product-summary{
     font-family: 'Poppins', sans-serif;
     font-weight: light;
-    font-size: 15px;
+    font-size: 20px;
     color: #C3C3C3;
     margin-top: 50px;
 }
