@@ -342,7 +342,9 @@ body{
     align-self: center;
 }
 
-.review-previous
+.review-previous i{
+    display: none;
+}
 
 .review-next{
     height: 50px;
