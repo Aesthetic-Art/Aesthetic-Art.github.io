@@ -44,7 +44,6 @@ function showPreviousReview() {
         if (i-reviewCounter==1) {
             reviewDot.style.backgroundColor = "white"
             reviewDot.style.opacity = "1"
-            console.log("hehehe")
             break
         }
         else {
