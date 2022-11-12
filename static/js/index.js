@@ -18,7 +18,7 @@ function showNextReview() {
         }
         else {
             reviewDot.style.backgroundColor = "#C3C3C3"
-            review
+            reviewDot.style.
         }
     }
 }
