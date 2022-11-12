@@ -7,6 +7,7 @@ let reviewTxt = document.querySelector('.review-txt')
 let reviewCounter = 1
 
 function showNextReview() {
+    let i=1
     reviewName.innerHTML = "Sarthak"
     reviewImg.src = "./static/media/sarthak.svg"
     reviewTxt.innerHTML = "Hola"
