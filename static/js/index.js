@@ -10,9 +10,7 @@ function showNextReview() {
     reviewName.innerHTML = "Sarthak"
     reviewImg.src = "./static/media/sarthak.svg"
     reviewTxt.innerHTML = "Hola"
-    if (reviewCounter == 1) {
-        
-    }
+    
 }
 
 function showPreviousReview() {
