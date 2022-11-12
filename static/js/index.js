@@ -8,7 +8,7 @@ let reviewCounter = 1
 
 function showNextReview() {
     reviewName.innerHTML = "Sarthak"
-    reviewImg.src = "../media/sarthak.svg"
+    reviewImg.src = "./media/sarthak.svg"
     reviewTxt = "Hola"
 }
 
