@@ -358,4 +358,6 @@ body{
     text-align: center;
 }
 
-#review-
+#review-progress{
+    display: flex;
+}
