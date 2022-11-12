@@ -301,6 +301,7 @@ body{
 #reviews{
     display: flex;
     margin-top: 150px;
+    align-items: center;
 }
 
 .review-container{
