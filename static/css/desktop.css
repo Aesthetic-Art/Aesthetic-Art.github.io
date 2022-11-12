@@ -425,6 +425,7 @@ body{
     height: 50px;
     align-self: center;
     transition: 0.7s;
+    overflow-x: visible !important;
 }
 
 .review-previous:hover{
