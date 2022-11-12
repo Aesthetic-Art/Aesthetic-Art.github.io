@@ -445,7 +445,7 @@ body{
 }
 
 #review-next-icon:hover{
-    transform: rotate(180deg);
+    transform: rotate(360deg);
 }
 
 #contact{
