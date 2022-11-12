@@ -339,7 +339,7 @@ body{
 
 .review-previous{
     height: 100px;
-    justi
+    align-self: center;
 }
 
 .review-next{
