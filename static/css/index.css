@@ -465,7 +465,6 @@ body{
 .flip-container {
     perspective: 1000;
     background: transparent;
-    margin: 100px auto;
 }
 /* flip the picture when hover */
 
