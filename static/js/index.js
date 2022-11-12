@@ -13,7 +13,7 @@ function showNextReview() {
     reviewTxt.innerHTML = "Hola"
     for (const reviewDot of reviewDots) {
         if (i-reviewCounter==1) {
-            reviewDot.
+            reviewDot.style.back
         }
     }
 }
