@@ -6,7 +6,7 @@ let reviewImg = document.querySelector('.review-img')
 let reviewTxt = document.querySelector('.review-txt')
 let reviewCounter=1
 
-console.log(reviewCounter)
+
 
 function showNextReview() {
     for (let j = 0; j<reviewDots.length; j++){
@@ -14,6 +14,7 @@ function showNextReview() {
             reviewCounter=j+1
         }
     }
+    console.log(reviewCounter)
     let i=1
     reviewName.innerHTML = "Sarthak"
     reviewImg.src = "./static/media/sarthak.svg"
