@@ -33,7 +33,29 @@ function showNextReview() {
 }
 
 function showPreviousReview() {
-    
+    for (let j = 0; j<reviewDots.length; j++){
+        if (reviewDots[j].style.backgroundColor == "white") {
+            reviewCounter=j+1
+        }
+    }
+    console.log(reviewCounter)
+    let i=1
+    reviewName.innerHTML = "Sarthak"
+    reviewImg.src = "./static/media/sarthak.svg"
+    reviewTxt.innerHTML = "Hola"
+    for (const reviewDot of reviewDots) {
+        if (i-reviewCounter==1) {
+            reviewDot.style.backgroundColor = "white"
+            reviewDot.style.opacity = "1"
+            console.log("hehehe")
+            break
+        }
+        else {
+            reviewDot.style.backgroundColor = "#C3C3C3"
+            reviewDot.style.opacity = "0.3"
+            i += 1
+        }
+    }
 }
 
 nextReview.addEventListener('click', showNextReview, false)
