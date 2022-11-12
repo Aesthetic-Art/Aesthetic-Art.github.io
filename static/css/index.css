@@ -493,12 +493,10 @@ img {
     top: 0;
     left: 0;
 }
-/* front placed above back */
 
 .front {
     z-index: 2;
 }
-/* back, initially hidden */
 
 .back {
     transform: rotateY(180deg);
