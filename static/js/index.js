@@ -43,7 +43,7 @@ function showNextReview() {
     }
 
     let i=1
-    reviewName.innerHTML = reviews[re]
+    reviewName.innerHTML = reviews[reviewCounter]
     reviewImg.src = "./static/media/sarthak.svg"
     reviewTxt.innerHTML = "Hola"
 
