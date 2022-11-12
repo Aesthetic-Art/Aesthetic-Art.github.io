@@ -7,7 +7,8 @@ let reviewTxt = document.querySelector('.review-txt')
 let reviewCounter = 1
 
 function showNextReview() {
-    reviewName.innerHTML=""
+    reviewName.innerHTML = "Sarthak"
+    review
 }
 
 nextReview.addEventListener('click', showNextReview, false)
