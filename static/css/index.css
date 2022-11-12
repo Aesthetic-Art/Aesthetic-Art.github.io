@@ -338,6 +338,7 @@ body{
 }
 
 .review-previous{
+    display: inline-block;
     text-align: center;
     vertical-align: middle;
 }
