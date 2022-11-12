@@ -362,4 +362,6 @@ body{
     display: flex;
 }
 
-.
+.review-dot{
+    background-color: #C3C3C3;
+}
