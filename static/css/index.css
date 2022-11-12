@@ -375,6 +375,7 @@ body{
 #footer{
     margin-top: 150px;
     align-items: center;
+    display: ;
 }
 
 .footer-txt{
@@ -382,4 +383,5 @@ body{
     font-weight: bold;
     font-size: 20px;
     text-align: center;
+    displ
 }
