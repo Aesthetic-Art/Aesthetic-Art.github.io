@@ -303,17 +303,17 @@ body{
     margin-top: 150px;
 }
 
-#review-container{
+.review-container{
     width: 50%;
     display: flex;
     background-color: #7D5A50;
 }
 
-#review-body{
+.review-body{
     display: flex;
     flex-direction: column;
 }
 
 #review-img{
-    
+
 }
