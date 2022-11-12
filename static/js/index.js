@@ -9,7 +9,7 @@ let reviewCounter = 1
 function showNextReview() {
     reviewName.innerHTML = "Sarthak"
     reviewImg.src = "./static/media/sarthak.svg"
-    reviewTxt = "Hola"
+    reviewTxt.innerHTML = "Hola"
 }
 
 function showPreviousReview() {
