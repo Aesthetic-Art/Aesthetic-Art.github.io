@@ -135,7 +135,8 @@ body{
 }
 
 #products-title{
-    
+    width: 50%;
+    text-align: center;
 }
 
 .product-panel{
