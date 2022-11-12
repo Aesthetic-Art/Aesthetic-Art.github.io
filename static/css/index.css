@@ -149,7 +149,7 @@ body{
     }
 }
 
-@key bounce {
+@keyframes bounce {
     0% {
 transform: scale(1,1) translate(0px, 0px);
 }
