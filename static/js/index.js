@@ -23,7 +23,7 @@ function showNextReview() {
     }
 
     else if (reviewCounter == 4) {
-        
+        nextReview.style.color="#74"
     }
 
     for (const reviewDot of reviewDots) {
