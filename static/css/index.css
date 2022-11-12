@@ -426,6 +426,10 @@ body{
     transition: 0.7s;
 }
 
+.review-next-icon:hover{
+    transform: rotate(360deg);
+}
+
 #review-title{
     width: 50%;
     text-align: center;
@@ -445,10 +449,6 @@ body{
     opacity: 0.3;
 }
 
-
-#review-next-icon:hover{
-    transform: rotate(360deg);
-}
 
 #contact{
     display: flex;
