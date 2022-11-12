@@ -12,5 +12,9 @@ function showNextReview() {
     reviewTxt = "Hola"
 }
 
+function showPreviousReview() {
+    pass
+}
+
 nextReview.addEventListener('click', showNextReview, false)
 previousReview.addEventListener('click', showPreviousReview, false)
