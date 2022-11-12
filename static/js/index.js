@@ -63,7 +63,7 @@ function showPreviousReview() {
     }
 
 
-    for (const reviewDot of ...[reviewDots].reverse()) {
+    for (const reviewDot of [...reviewDots].reverse()) {
         if (reviewCounter-i==1) {
             reviewDot.style.backgroundColor = "white"
             reviewDot.style.opacity = "1"
