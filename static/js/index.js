@@ -6,7 +6,9 @@ let reviewImg = document.querySelector('.review-img')
 let reviewTxt = document.querySelector('.review-txt')
 
 for (let j = 0; j, reviewDots.length(); j++){
-    if reviewDots[j].style.backgroundColor
+    if (reviewDots[j].style.backgroundColor == "white") {
+        
+    }
 }
 
 function showNextReview() {
