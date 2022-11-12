@@ -423,6 +423,7 @@ body{
 .review-next{
     height: 50px;
     align-self: center;
+    transition: 0.7s;
 }
 
 #review-title{
@@ -444,9 +445,6 @@ body{
     opacity: 0.3;
 }
 
-#review-next{
-    transition: 0.7s;
-}
 
 #review-next-icon:hover{
     transform: rotate(360deg);
