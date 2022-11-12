@@ -306,3 +306,7 @@ body{
 #review-container{
     width: 50%;
 }
+
+#review-body{
+    margin-top: 100px;
+}
