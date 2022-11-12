@@ -445,7 +445,7 @@ body{
 }
 
 #review-next-icon{
-    trans
+    transition: 0.7s;
 }
 
 #review-next-icon:hover{
