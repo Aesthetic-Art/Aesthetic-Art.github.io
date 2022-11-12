@@ -49,6 +49,7 @@ function showPreviousReview() {
 
     let i = reviewDots.length 
     console.log(i)
+    console.log(reviewCounter)
     reviewName.innerHTML = "Sjsjsj"
     reviewImg.src = "./static/media/sarthak.svg"
     reviewTxt.innerHTML = "Hola"
