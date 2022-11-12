@@ -338,8 +338,8 @@ body{
 }
 
 .review-previous{
-    align-items: center;
-    justify-content: center;
+    align-items: center !important;
+    justify-content: center Imp !important;
 }
 
 .review-next{
