@@ -12,7 +12,7 @@ function showNextReview() {
             reviewCounter=j+1
         }
     }
-    
+
     let i=1
     reviewName.innerHTML = "Sarthak"
     reviewImg.src = "./static/media/sarthak.svg"
@@ -42,10 +42,12 @@ function showPreviousReview() {
             reviewCounter=j+1
         }
     }
+
     let i=1
     reviewName.innerHTML = "Sjsjsj"
     reviewImg.src = "./static/media/sarthak.svg"
     reviewTxt.innerHTML = "Hola"
+    
     for (const reviewDot of reviewDots) {
         if (reviewCounter-i==1) {
             reviewDot.style.backgroundColor = "white"
