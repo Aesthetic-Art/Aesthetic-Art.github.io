@@ -459,7 +459,7 @@ body{
 }
 
 .social-icon{
-    transition: ;
+    transition: .7s ease-in-out;
 }
 
 #instagram-icon:hover{
