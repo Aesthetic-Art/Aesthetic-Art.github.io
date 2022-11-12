@@ -312,6 +312,7 @@ body{
 .review-body{
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 .review-img{
