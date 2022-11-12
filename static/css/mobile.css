@@ -1,0 +1,531 @@
+@media screen {
+    
+}
+
+@keyframes shake {
+    10%, 90% {
+        transform: translate3d(-1px, 0, 0);
+    }
+    20%, 80% {
+        transform: translate3d(2px, 0, 0);
+    }
+    30%, 50%, 70% {
+        transform: translate3d(-4px, 0, 0);
+    }
+    40%, 60% {
+        transform: translate3d(4px, 0, 0);
+    }
+}
+
+@keyframes bounce {
+    0%{
+    transform: scale(1,1) translate(0px, 0px);
+    }
+
+    30%{
+    transform: scale(1,0.8) translate(0px, 10px); 
+    }
+
+    75%{
+    transform: scale(1,1.1) translate(0px, -25px); 
+    }
+
+    100% {
+    transform: scale(1,1) translate(0px, 0px);
+    }
+}
+
+body{
+    margin: 0px;
+    background-color: #FCDEC0;
+    overflow-x: hidden;
+    padding-bottom: 30px;
+    padding-top: 50px;
+}
+
+* {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sub-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 70px;
+    color: #7D5A50;
+}
+
+#navbar{
+    display: flex;
+}
+
+#navbar-logo{
+    width: 50%;
+}
+
+#logo-svg{
+    height:100px;
+}
+
+#navbar-list{
+    width: 50%;
+    align-items: center;
+    justify-content: flex-end;
+    display: flex;
+}
+
+#navbar-list-items{
+    list-style-type: none;
+    display: flex;
+}
+
+.navbar-item{
+    margin-left: 50px;
+    font-family: 'Poppins',sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.navbar-item a{
+    color: #7D5A50;
+    text-decoration: none;
+    background-image:linear-gradient(#B4846C,#B4846C);
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+    background-position-y: 100%;
+    background-size: 0% 0.1em;
+    transition: background-size 0.2s ease-in-out;
+    font-size: 20px;
+}
+
+.navbar-item a:hover{
+    font-weight: bold;
+    background-position-x:0% ;
+    background-size: 100% 0.1em;
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 98%;
+    background-color: #7D5A50;
+    z-index: 1;
+    margin:0px;
+    padding: 20px;
+}
+
+.navbar-item-sticky{
+    color: #FCDEC0 !important;
+    background-image:linear-gradient(#E5B299,#E5B299) !important;
+}
+
+
+#intro{
+    margin-top: 75px;
+    display: flex;
+}
+
+#intro-txt{
+    margin-top: 30px;
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+}
+
+#intro-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 90px;
+    font-weight: bolder;
+    color: #7D5A50;
+}
+
+#intro-img{
+    width: 55%;
+    justify-content: right;
+    margin-right: 0px !important;
+} 
+
+#intro-svg{
+    height: 800px;
+}
+
+#order-now-btn{
+    margin-top: 50px;
+    width: 40%;
+    background-color: #7D5A50;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    padding: 20px;
+    font-size: x-large;
+    border: none;
+}
+
+#order-now-btn a{
+    text-decoration: none;
+    color: white;
+}
+
+#order-now-btn:hover{
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    transform: translate3d(0, 0, 0);
+    perspective: 1000px;
+}
+
+#about{
+    margin-top: 100px;
+}
+
+#about-header{
+    display: flex;
+    align-items: center;
+}
+
+#about-img{
+    width: 50%;
+    margin-left: -40px !important; 
+}
+
+#about-svg{
+    height: 500px;
+}
+
+#about-title{
+    width: 50%;
+}
+
+#about-heading{
+    text-align: center;
+}
+
+#about-body{
+    width: 70%;
+    margin-top: 100px !important;
+    background-color: #7D5A50;
+    padding: 40px;
+    margin: auto;
+}
+
+#about-body-txt{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: justify;
+    color: white;
+}
+
+#products{
+    margin-top: 150px;
+}
+
+#products-title{
+    width: 50%;
+    text-align: center;
+}
+
+.product-panel{
+    display: flex;
+    flex-direction: column;
+    background-color: #7D5A50;
+    width:80%;
+    align-items: center;
+    margin: auto;
+}
+
+.product-container{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    height: 600px;
+    margin-top: 50px;
+}
+.product-info{
+    width: 30%;
+    text-align: left;
+}
+
+.product-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+.product-summary{
+    font-family: 'Poppins', sans-serif;
+    font-weight: light;
+    font-size: 25px;
+    color: #C3C3C3;
+    margin-top: 50px;
+}
+
+.product-view-btn{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #B4846C;
+    border: none;
+    padding: 20px;
+    width:50%;
+    margin-top: 50px;
+}
+
+.product-view-btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.product-view-btn:hover{
+    animation: bounce 0.75s;
+}
+
+.product-img{
+    margin-right: -20px !important;
+    margin-bottom: 20px !important;
+    position:absolute;
+}
+
+
+.product-img-outer-box{
+    background-color: #B4846C;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.product-img-inner-box{
+    border: 1px solid white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.product-svg{
+    height: 500px;
+}
+
+#spotify-plaque-img{
+    left: 620px;
+    bottom: 80px;
+}
+
+#spotify-plaque-info{
+    margin-left: 50px;
+}
+
+#transparent-frame-container{
+    flex-direction: row-reverse;
+}
+
+#transparent-frame-img{
+    right: 650px;
+    top: 30px;
+}
+
+#transparent-frame-info{
+    margin-right: 50px;
+}
+
+#product-panel-2{
+    margin-top: 400px;
+}
+
+#vintage-brass-frame-img{
+    left: 620px;
+    bottom: 80px;
+}
+
+#mobile-backcover-img{
+    right: 650px;
+    top: 30px;
+}
+
+#mobile-backcover-container{
+    flex-direction: row-reverse
+}
+
+#vintage-brass-frame-info{
+    margin-left: 50px;
+}
+
+#mobile-backcover-info{
+    margin-right: 50px;
+}
+
+#product-panel-3{
+    margin-top: 400px;
+}
+
+#bookmarks-img{
+    left: 620px;
+    bottom: 80px;
+}
+
+#polaroids-img{
+    right: 650px;
+    top: 30px;
+}
+
+#polaroids-container{
+    flex-direction: row-reverse
+}
+
+#bookmarks-info{
+    margin-left: 50px;
+}
+
+#polaroids-info{
+    margin-right: 50px;
+}
+
+#reviews{
+    display: flex;
+    margin-top: 300px;
+    align-items: center;
+}
+
+.review-container{
+    width: 50%;
+    display: flex;
+    background-color: #7D5A50;
+    border-radius: 5%;
+}
+
+.review-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.review-img{
+    height: 200px;
+}
+
+.review-name{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.review-txt{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: light;
+    color: #C3C3C3;
+    text-align: center;
+}
+
+.review-previous{
+    height: 50px;
+    align-self: center;
+    transition: 0.7s;
+}
+
+.review-previous:hover{
+    transform: rotate(-360deg);
+}
+
+.review-next{
+    height: 50px;
+    align-self: center;
+    transition: 0.7s;
+}
+
+.review-next:hover{
+    transform: rotate(360deg);
+}
+
+#review-title{
+    width: 50%;
+    text-align: center;
+}
+
+#review-progress{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.review-dot{
+    height: 15px;
+    width: 15px;
+    background-color: #C3C3C3;
+    border-radius: 50%;
+    opacity: 0.3;
+}
+
+
+#contact{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    align-items: center;
+}
+
+#contact-icons{
+    width:70%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flip-container {
+    perspective: 1000;
+    background: transparent;
+}
+
+.flip-container:hover .flipper{
+    transform: rotateY(180deg);
+}
+
+.social-icon,
+.flip-container,
+.flipper,
+.front,
+.back,
+.social-icon-image {
+    margin: 0px;
+    width: 80px;
+    height: 80px;
+}
+
+.flipper {
+    transition: 0.7s;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+.front,
+.back {
+    backface-visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.front {
+    z-index: 2;
+}
+
+.back {
+    transform: rotateY(180deg);
+}
+
+#footer{
+    margin-top: 150px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.footer-txt{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
