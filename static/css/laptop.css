@@ -215,7 +215,7 @@ body{
 
 #products{
     margin-top: 150px;
-    overflow-x: visible !important;
+    overflow: visible !important;
 }
 
 #products-title{
@@ -239,6 +239,7 @@ body{
     position: relative;
     height: 500px;
     margin-top: 50px;
+    overflow-x: visible !important;
 }
 .product-info{
     width: 30%;
