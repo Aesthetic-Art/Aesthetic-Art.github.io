@@ -500,14 +500,6 @@ body{
     transform: rotateY(180deg);
 }
 
-
-#whatsapp-icon:hover{
-    color: #111;
-    background: #25D366;
-    box-shadow: 0 0 100px #25D366;
-    border-radius: 100%;
-}
-
 #footer{
     margin-top: 150px;
     align-items: center;
