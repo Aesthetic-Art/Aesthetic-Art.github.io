@@ -505,7 +505,7 @@ img {
 /* back, initially hidden */
 
 .back {
-    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
     background: rgb(218, 138, 138);
 }
 
