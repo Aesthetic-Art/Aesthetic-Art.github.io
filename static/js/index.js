@@ -12,10 +12,12 @@ function showNextReview() {
             reviewCounter=j+1
         }
     }
+    
     let i=1
     reviewName.innerHTML = "Sarthak"
     reviewImg.src = "./static/media/sarthak.svg"
     reviewTxt.innerHTML = "Hola"
+
     if (reviewCounter == 1) {
         previousReview.style.color="white"
     }
