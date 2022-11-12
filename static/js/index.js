@@ -16,6 +16,9 @@ function showNextReview() {
             reviewDot.style.backgroundColor = "white"
             reviewDot.style.opacity = "1"
         }
+        else {
+            review
+        }
     }
 }
 
