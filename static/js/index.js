@@ -6,7 +6,7 @@ let reviewImg = document.querySelector('.review-img')
 let reviewTxt = document.querySelector('.review-txt')
 
 for (let j = 0; j, reviewDots.length(); j++){
-    if reviewDots[j]
+    if reviewDots[j].
 }
 
 function showNextReview() {
