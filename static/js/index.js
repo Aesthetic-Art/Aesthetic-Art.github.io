@@ -1,5 +1,5 @@
 var nextReview = document.querySelector('.review-next')
 var reviewDots = document.querySelectorAll('.review-dot')
 var reviewName = document.querySelector('.review-name')
-var reviewName = document.querySelector('.review-name')
+var reviewImg = document.querySelector('.review-img')
 var reviewName = document.querySelector('.review-name')
