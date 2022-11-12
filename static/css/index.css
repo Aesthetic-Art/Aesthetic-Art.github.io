@@ -77,6 +77,18 @@ body{
     padding: 20px;
 }
 
+.navbar-item-sticky{
+    color: #FCDEC0 ;
+    text-decoration: none;
+    background-image:linear-gradient(#E5B299,#E5B299);
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+    background-position-y: 100%;
+    background-size: 0% 0.1em;
+    transition: background-size 0.2s ease-in-out;
+    font-size: 20px;
+}
+
 #intro{
     margin-top: 75px;
     display: flex;
