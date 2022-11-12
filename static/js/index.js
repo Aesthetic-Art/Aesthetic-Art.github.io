@@ -7,7 +7,7 @@ var navItems = Array.from(document.querySelectorAll('.navbar-item a'))
 function myFunction() {
     if (window.pageYOffset >= sticky) {
         navbar.classList.add("sticky");
-        navItems.forEach()
+        navItems.forEach(function())
     } else {
         navbar.classList.remove("sticky");
     }
