@@ -329,5 +329,7 @@ body{
 }
 
 .review-txt{
-    font
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: ;
 }
