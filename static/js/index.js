@@ -11,7 +11,7 @@ const reviews = [
     },
     {
         image: "./static/media/s.svg",
-        name:"S"
+        name:"Saiee Nagane"
     }
 ]
 
