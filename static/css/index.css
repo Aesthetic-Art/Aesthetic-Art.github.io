@@ -51,7 +51,7 @@ body{
 .navbar-item a{
     color: #7D5A50;
     text-decoration: none;
-    background-image:linear-gradient(#c,white);
+    background-image:linear-gradient(#B4846C,white);
     background-repeat: no-repeat;
     background-position-x: 100%;
     background-position-y: 100%;
@@ -59,6 +59,8 @@ body{
     transition: background-size 0.2s ease-in-out;
     font-size: 20px;
 }
+
+
 
 #intro{
     margin-top: 75px;
