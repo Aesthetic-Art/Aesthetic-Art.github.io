@@ -51,7 +51,7 @@ body{
 .navbar-item a{
     color: #7D5A50;
     text-decoration: none;
-    background-image:linear-gradient(#c,white);
+    background-image:linear-gradient(white,white);
     background-repeat: no-repeat;
     background-position-x: 100%;
     background-position-y: 100%;
