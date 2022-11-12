@@ -263,6 +263,7 @@ body{
     padding: 20px;
     width:50%;
     margin-top: 50px;
+    animation: bo;
 }
 
 .product-view-btn a{
