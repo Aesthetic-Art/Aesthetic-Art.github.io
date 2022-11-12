@@ -374,5 +374,6 @@ body{
 
 .footer-txt{
     font-family: 'Montserrat', sans-serif;
-    font-weight: ;
+    font-weight: bold;
+    font-size: 20px;
 }
