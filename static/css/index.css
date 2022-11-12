@@ -463,7 +463,7 @@ body{
 }
 
 #instagram-icon:hover{
-    transform: rotateY('angle');
+    transform: rotateY('180deg');
 }
 
 #whatsapp-icon:hover{
