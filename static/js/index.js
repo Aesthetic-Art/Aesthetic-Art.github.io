@@ -1,3 +1,5 @@
+const Reviews
+
 let nextReview = document.querySelector('.review-next')
 let previousReview=document.querySelector('.review-previous')
 let reviewDots = Array.from(document.querySelectorAll('.review-dot'))
