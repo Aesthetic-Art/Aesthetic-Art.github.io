@@ -450,8 +450,8 @@ body{
 }
 
 .review-dot{
-    height: 15px;
-    width: 15px;
+    height: 10px;
+    width: 10px;
     background-color: #C3C3C3;
     border-radius: 50%;
     opacity: 0.3;
