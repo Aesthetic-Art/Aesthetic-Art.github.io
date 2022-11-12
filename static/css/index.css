@@ -341,7 +341,10 @@ body{
     display: inline-block;
 }
 
-.i
+.review-previous i{
+    text-align: center;
+    vertical-align: middle;
+}
 
 .review-next{
     align-items: center;
