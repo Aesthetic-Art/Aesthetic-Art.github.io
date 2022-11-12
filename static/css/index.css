@@ -305,8 +305,10 @@ body{
 
 #review-container{
     width: 50%;
+    display: flex;
 }
 
-#review-bo{
+#review-body{
     display: flex;
+    flex-direction: column;
 }
