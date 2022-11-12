@@ -463,8 +463,6 @@ body{
     background: transparent;
 }
 
-/* flip the picture when hover */
-
 .flip-container:hover .flipper{
     transform: rotateY(180deg);
 }
