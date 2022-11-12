@@ -303,7 +303,6 @@ body{
     margin-top: 150px;
 }
 
-#review-body{
+#review-container{
     width: 50%;
-    display: flex;
 }
