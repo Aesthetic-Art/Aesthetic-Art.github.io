@@ -13,7 +13,7 @@ function showNextReview() {
 }
 
 function showPreviousReview() {
-    pass
+    
 }
 
 nextReview.addEventListener('click', showNextReview, false)
