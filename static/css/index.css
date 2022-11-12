@@ -302,3 +302,8 @@ body{
     display: flex;
     margin-top: 150px;
 }
+
+#review-body{
+    width: 50%;
+    display: flex;
+}
