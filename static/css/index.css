@@ -71,6 +71,7 @@ body{
     top: 0;
     width: 100%;
     background-color: #E5B299;
+    z-index: 1;
 }
 
 #intro{
