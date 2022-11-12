@@ -1,1 +1,1 @@
-var nextReview
+var nextReview = document.find
