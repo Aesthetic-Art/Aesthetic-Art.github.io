@@ -477,14 +477,12 @@ img {
     width: 100px;
     height: 100px;
 }
-/* flip speed */
 
 .flipper {
-    transition: 1.5s;
+    transition: 0.7s;
     transform-style: preserve-3d;
     position: relative;
 }
-/* hide back  during flip */
 
 .front,
 .back {
