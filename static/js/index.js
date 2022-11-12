@@ -38,7 +38,6 @@ function showPreviousReview() {
             reviewCounter=j+1
         }
     }
-    console.log(reviewCounter)
     let i=1
     reviewName.innerHTML = "Sarthak"
     reviewImg.src = "./static/media/sarthak.svg"
