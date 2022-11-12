@@ -42,7 +42,8 @@ function showNextReview() {
         }
     }
 
-    let i=1
+    let i = 1
+    console.log(reviewCounter)
     reviewName.innerHTML = reviews[reviewCounter]['name']
     reviewImg.src = reviews[reviewCounter]['image']
     reviewTxt.innerHTML = reviews[reviewCounter]['text']
