@@ -17,7 +17,7 @@ function showNextReview() {
             reviewDot.style.opacity = "1"
         }
         else {
-            review
+            reviewDot.
         }
     }
 }
