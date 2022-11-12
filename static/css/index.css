@@ -458,9 +458,6 @@ body{
     justify-content: space-evenly;
 }
 
-.social-icon{
-    transition: .7s ease-in-out;
-}
 
 .flip-container {
     perspective: 1000;
