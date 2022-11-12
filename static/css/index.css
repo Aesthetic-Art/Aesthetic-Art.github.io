@@ -340,6 +340,7 @@ body{
 .review-previous{
     align-items: center !important;
     justify-content: center !important;
+    text-align: center;
 }
 
 .review-next{
