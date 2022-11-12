@@ -22,6 +22,8 @@ function showNextReview() {
         previousReview.style.color="white"
     }
 
+    else if
+
     for (const reviewDot of reviewDots) {
         if (i-reviewCounter==1) {
             reviewDot.style.backgroundColor = "white"
@@ -47,7 +49,7 @@ function showPreviousReview() {
     reviewName.innerHTML = "Sjsjsj"
     reviewImg.src = "./static/media/sarthak.svg"
     reviewTxt.innerHTML = "Hola"
-    
+
     for (const reviewDot of reviewDots) {
         if (reviewCounter-i==1) {
             reviewDot.style.backgroundColor = "white"
