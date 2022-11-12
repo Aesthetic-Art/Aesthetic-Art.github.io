@@ -308,5 +308,5 @@ body{
 }
 
 #review-body{
-    margin-top: 100px;
+    display: flex;
 }
