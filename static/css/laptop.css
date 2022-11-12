@@ -102,7 +102,7 @@ body{
 }
 
 .sticky{
-    max-width:inherit;
+    max-width:initial;
     position: fixed;
     top: 0;
     left: 0;
