@@ -42,7 +42,7 @@ body{
 * {
     margin-left: 10px;
     margin-right: 10px;
-    overflow-x: hidden !important;
+    overflow-x: hidden;
 }
 
 .sub-heading{
