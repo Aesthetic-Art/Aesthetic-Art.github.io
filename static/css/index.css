@@ -509,9 +509,6 @@ img {
     background: rgb(218, 138, 138);
 }
 
-#instagram-icon:hover{
-    transform: rotateY('180deg');
-}
 
 #whatsapp-icon:hover{
     color: #111;
