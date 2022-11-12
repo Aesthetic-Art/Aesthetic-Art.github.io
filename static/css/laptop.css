@@ -495,6 +495,7 @@ body{
     margin: 0px;
     width: 60px;
     height: 60px;
+    overflow-x: visible !important;
 }
 
 .flipper {
