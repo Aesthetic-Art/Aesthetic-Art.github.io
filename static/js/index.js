@@ -81,7 +81,7 @@ function showPreviousReview() {
     console.log(reviewCounter)
     reviewName.innerHTML = reviews[reviewCounter-2]['name']
     reviewImg.src = reviews[reviewCounter-2]['image']
-    reviewTxt.innerHTML = reviews[reviewCounter-1]['text']
+    reviewTxt.innerHTML = reviews[reviewCounter-2]['text']
 
     if (reviewCounter == 2) {
         previousReview.firstElementChild.style.color="#7D5A50"
