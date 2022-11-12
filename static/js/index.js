@@ -1,1 +1,1 @@
-var nextReview = document.find
+var nextReview = document.querySelector('')
