@@ -6,6 +6,9 @@ let reviewImg = document.querySelector('.review-img')
 let reviewTxt = document.querySelector('.review-txt')
 let reviewCounter = 1
 
-function showNextReview
+function showNextReview() {
+    
+}
+
 nextReview.addEventListener('click', showNextReview, false)
 previousReview.addEventListener('click', showPreviousReview, false)
