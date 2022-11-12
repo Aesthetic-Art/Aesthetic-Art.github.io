@@ -471,6 +471,7 @@ body{
 .front,
 .back,
 .social-image {
+    margin: 0px;
     width: 80px;
     height: 80px;
 }
