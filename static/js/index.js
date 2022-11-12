@@ -7,4 +7,4 @@ let reviewTxt = document.querySelector('.review-txt')
 let reviewCounter = 1
 
 nextReview.addEventListener('click', showNextReview, false)
-previous
+previousReview.addEventListener('click')
