@@ -30,6 +30,7 @@ function showNextReview() {
         if (i-reviewCounter==1) {
             reviewDot.style.backgroundColor = "white"
             reviewDot.style.opacity = "1"
+            break
         }
         else {
             reviewDot.style.backgroundColor = "#C3C3C3"
@@ -64,6 +65,7 @@ function showPreviousReview() {
         if (reviewCounter-i==1) {
             reviewDot.style.backgroundColor = "white"
             reviewDot.style.opacity = "1"
+            break
         }
         else {
             reviewDot.style.backgroundColor = "#C3C3C3"
