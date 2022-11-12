@@ -4,7 +4,8 @@ let reviewDots = Array.from(document.querySelectorAll('.review-dot'))
 let reviewName = document.querySelector('.review-name')
 let reviewImg = document.querySelector('.review-img')
 let reviewTxt = document.querySelector('.review-txt')
-let reviewCounter = 1
+
+for reviewDots
 
 function showNextReview() {
     let i=1
