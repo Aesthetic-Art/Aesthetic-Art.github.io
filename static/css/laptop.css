@@ -229,6 +229,7 @@ body{
     width:80%;
     align-items: center;
     margin: auto;
+    overflow-x: visible !important;
 }
 
 .product-container{
