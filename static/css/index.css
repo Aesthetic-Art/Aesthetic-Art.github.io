@@ -48,6 +48,19 @@ body{
     font-size: 25px;
 }
 
+div#menu ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Crimson Pro',sans-serif;
+    background-image:linear-gradient(white,white);
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+    background-position-y: 100%;
+    background-size: 0% 0.1em;
+    transition: background-size 0.2s ease-in-out;
+    font-size: 20px;
+}
+
 #intro{
     margin-top: 75px;
     display: flex;
