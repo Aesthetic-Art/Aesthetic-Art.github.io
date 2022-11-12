@@ -18,6 +18,11 @@ const reviews = [
         image: "./static/media/s.svg",
         name: "Saiee Nagane",
         text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
+    },
+    {
+        image: "./static/media/s.svg",
+        name: "Saiee Nagane",
+        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
     }
 ]
 
@@ -38,7 +43,7 @@ function showNextReview() {
     }
 
     let i=1
-    reviewName.innerHTML = "Sarthak"
+    reviewName.innerHTML = revie
     reviewImg.src = "./static/media/sarthak.svg"
     reviewTxt.innerHTML = "Hola"
 
