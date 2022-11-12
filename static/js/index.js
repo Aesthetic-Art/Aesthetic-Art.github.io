@@ -44,8 +44,8 @@ function showNextReview() {
 
     let i=1
     reviewName.innerHTML = reviews[reviewCounter-1]['name']
-    reviewImg.src = "./static/media/sarthak.svg"
-    reviewTxt.innerHTML = "Hola"
+    reviewImg.src = reviews[reviewCounter-1]['name']
+    reviewTxt.innerHTML = reviews[reviewCounter-1]['name']
 
     if (reviewCounter == 1) {
         previousReview.firstElementChild.style.color="white"
