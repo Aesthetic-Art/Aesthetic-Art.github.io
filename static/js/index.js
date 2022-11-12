@@ -4,6 +4,7 @@ let reviewDots = Array.from(document.querySelectorAll('.review-dot'))
 let reviewName = document.querySelector('.review-name')
 let reviewImg = document.querySelector('.review-img')
 let reviewTxt = document.querySelector('.review-txt')
+let review
 
 for (let j = 0; j, reviewDots.length(); j++){
     if (reviewDots[j].style.backgroundColor == "white") {
