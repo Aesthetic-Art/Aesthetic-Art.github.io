@@ -462,7 +462,7 @@ body{
 #instagram-icon:hover{
     color: #111;
     background:#e1306c;
-    box-shadow: 0 0 100px linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);k;
+    box-shadow: 0 0 100px #e1306c;
 }
 
 #footer{
