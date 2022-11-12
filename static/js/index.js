@@ -14,7 +14,7 @@ function showNextReview() {
     for (const reviewDot of reviewDots) {
         if (i-reviewCounter==1) {
             reviewDot.style.backgroundColor = "white"
-            
+            review
         }
     }
 }
