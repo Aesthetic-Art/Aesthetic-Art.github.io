@@ -309,7 +309,6 @@ body{
     display: flex;
     background-color: #7D5A50;
     border-radius: 5%;
-    align-items: center;
 }
 
 .review-body{
