@@ -338,11 +338,7 @@ body{
 }
 
 .review-previous{
-    display: inline-block;
-}
-
-.review-previous i{
-    margin-top: 50%;
+    
 }
 
 .review-next{
