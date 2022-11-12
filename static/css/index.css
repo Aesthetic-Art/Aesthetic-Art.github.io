@@ -444,8 +444,8 @@ body{
     opacity: 0.3;
 }
 
-#review-next-icon{
-    
+#review-next-icon:hover{
+    transform: ;
 }
 
 #contact{
