@@ -1,2 +1,2 @@
 var nextReview = document.querySelector('.review-next')
-var 
+var reviewDots = docume
