@@ -79,9 +79,9 @@ function showPreviousReview() {
     let i = reviewDots.length 
     console.log(i)
     console.log(reviewCounter)
-    reviewName.innerHTML = "Sjsjsj"
-    reviewImg.src = "./static/media/sarthak.svg"
-    reviewTxt.innerHTML = "Hola"
+    reviewName.innerHTML = reviews[reviewCounter-1]['name']
+    reviewImg.src = reviews[reviewCounter-1]['image']
+    reviewTxt.innerHTML = reviews[reviewCounter-1]['text']
 
     if (reviewCounter == 2) {
         previousReview.firstElementChild.style.color="#7D5A50"
