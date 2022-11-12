@@ -472,6 +472,7 @@ body{
 .front,
 .back,
 .social-icon-image {
+    margin: 0px;
     width: 80px;
     height: 80px;
 }
