@@ -19,11 +19,11 @@ function showNextReview() {
     reviewTxt.innerHTML = "Hola"
 
     if (reviewCounter == 1) {
-        previousReview.style.color="white"
+        previousReview.firstElementChild.style.color="white"
     }
 
     else if (reviewCounter == 4) {
-        nextReview.style.color="#7D5A50"
+        nextReview.firstElementChild.style.color="#7D5A50"
     }
 
     for (const reviewDot of reviewDots) {
