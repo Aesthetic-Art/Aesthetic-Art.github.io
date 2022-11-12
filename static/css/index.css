@@ -376,7 +376,7 @@ body{
     margin-top: 150px;
     align-items: center;
     justify-content: center;
-    display: ;
+    display: flex;
 }
 
 .footer-txt{
@@ -384,5 +384,4 @@ body{
     font-weight: bold;
     font-size: 20px;
     text-align: center;
-    display: inline-flex;
 }
