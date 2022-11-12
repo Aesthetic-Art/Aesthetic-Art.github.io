@@ -444,6 +444,10 @@ body{
     opacity: 0.3;
 }
 
+#review-next-icon{
+    
+}
+
 #contact{
     display: flex;
     flex-direction: column;
