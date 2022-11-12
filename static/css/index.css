@@ -66,6 +66,12 @@ body{
     background-size: 100% 0.1em;
 }
 
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
 #intro{
     margin-top: 75px;
     display: flex;
