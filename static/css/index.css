@@ -444,6 +444,10 @@ body{
     opacity: 0.3;
 }
 
+#review-next-icon{
+    trans
+}
+
 #review-next-icon:hover{
     transform: rotate(360deg);
 }
