@@ -465,6 +465,7 @@ body{
 
 /* flip the picture when hover */
 
+.flip-container:hover .flipper,
 .flip-container.hover .flipper {
     transform: rotateY(180deg);
 }
