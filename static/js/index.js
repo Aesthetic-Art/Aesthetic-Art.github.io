@@ -79,8 +79,8 @@ function showPreviousReview() {
 
     let i = reviewDots.length 
     console.log(reviewCounter)
-    reviewName.innerHTML = reviews[reviewCounter-1]['name']
-    reviewImg.src = reviews[reviewCounter-1]['image']
+    reviewName.innerHTML = reviews[reviewCounter-2]['name']
+    reviewImg.src = reviews[reviewCounter-2]['image']
     reviewTxt.innerHTML = reviews[reviewCounter-1]['text']
 
     if (reviewCounter == 2) {
