@@ -49,6 +49,7 @@ body{
 }
 
 .navbar-item a{
+    color: black;
     text-decoration: none;
     background-image:linear-gradient(white,white);
     background-repeat: no-repeat;
