@@ -78,7 +78,7 @@ body{
 }
 
 .navbar-item-sticky{
-    color: #FCDEC0 ;
+    color: #FCDEC0 !important;
     text-decoration: none;
     background-image:linear-gradient(#E5B299,#E5B299);
     background-repeat: no-repeat;
