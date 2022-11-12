@@ -41,6 +41,7 @@ function showNextReview() {
 }
 
 function showPreviousReview() {
+    
     for (let j = 0; j<reviewDots.length; j++){
         if (reviewDots[j].style.backgroundColor == "white") {
             reviewCounter=j+1
