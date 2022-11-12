@@ -57,7 +57,7 @@ function showPreviousReview() {
     }
 
     else if (reviewCounter == 5) {
-        nextReview.style.color="white"
+        nextReview.firstElementChild.style.color="white"
     }
 
 
