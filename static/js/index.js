@@ -1,1 +1,1 @@
-var nextReview = document.querySelector('')
+var nextReview = document.querySelector('.review-next')
