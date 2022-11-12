@@ -1,1 +1,1 @@
-var reviewNext
+var nextReview
