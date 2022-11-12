@@ -418,6 +418,7 @@ body{
 .review-previous{
     height: 50px;
     align-self: center;
+    transition: 0.7s;
 }
 
 .review-next{
