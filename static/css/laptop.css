@@ -54,7 +54,6 @@ body{
 #navbar{
     width: 100%;
     display: flex;
-    overflow-x: visible !important;
 }
 
 #navbar-logo{
