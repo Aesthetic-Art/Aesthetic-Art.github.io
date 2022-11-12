@@ -463,7 +463,7 @@ body{
 }
 
 #instagram-icon:hover{
-    transform: rotate3d();
+    transform: rotate3;
 }
 
 #whatsapp-icon:hover{
