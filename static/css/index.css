@@ -63,7 +63,7 @@ body{
 .navbar-item a:hover{
     font-weight: bold;
     background-position-x:0% ;
-    background-size: 100% 0.3em;
+    background-size: 100% 0.1em;
 }
 
 #intro{
