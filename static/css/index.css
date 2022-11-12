@@ -465,6 +465,12 @@ body{
     box-shadow: 0 0 100px #e1306c;
 }
 
+#instagram-icon:hover{
+    color: #111;
+    background: #e1306c;
+    box-shadow: 0 0 100px #e1306c;
+}
+
 #footer{
     margin-top: 150px;
     align-items: center;
