@@ -140,7 +140,6 @@ body{
 #intro-img{
     width: 55%;
     justify-content: right;
-    max-width: max-content;
 } 
 
 #intro-svg{
