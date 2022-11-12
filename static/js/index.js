@@ -53,7 +53,7 @@ function showPreviousReview() {
     reviewTxt.innerHTML = "Hola"
 
     if (reviewCounter == 2) {
-        previousReview.style.color="#7D5A50"
+        previousReview.firstElementChild.style.color="#7D5A50"
     }
 
     else if (reviewCounter == 5) {
