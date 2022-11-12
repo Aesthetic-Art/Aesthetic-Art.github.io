@@ -343,7 +343,7 @@ body{
 }
 
 .review-previous i{
-    ;
+    --fa-inverse;
 }
 
 .review-next{
