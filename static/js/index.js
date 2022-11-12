@@ -1,6 +1,7 @@
 const reviews = [{
-    img:"./static/media/apurva.svg"
+    img: "./static/media/apurva.svg",
     name: "Apurva Bidkar",
+    
 }]
 
 let nextReview = document.querySelector('.review-next')
