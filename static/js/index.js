@@ -12,7 +12,7 @@ function showNextReview() {
     reviewImg.src = "./static/media/sarthak.svg"
     reviewTxt.innerHTML = "Hola"
     for (const reviewDot of reviewDots) {
-        if (i == reviewCounter) {
+        if (i-reviewCounter==1) {
             
         }
     }
