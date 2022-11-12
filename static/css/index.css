@@ -342,6 +342,10 @@ body{
     align-self: center;
 }
 
+.review-previous i{
+    color: ;
+}
+
 .review-next{
     height: 50px;
     align-self: center;
