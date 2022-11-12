@@ -47,7 +47,8 @@ function showPreviousReview() {
         }
     }
 
-    let i=reviewDots.length+1
+    let i = reviewDots.length + 1
+    console.log(i)
     reviewName.innerHTML = "Sjsjsj"
     reviewImg.src = "./static/media/sarthak.svg"
     reviewTxt.innerHTML = "Hola"
