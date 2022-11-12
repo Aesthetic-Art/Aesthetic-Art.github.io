@@ -12,7 +12,6 @@ function showNextReview() {
             reviewCounter=j+1
         }
     }
-    console.log(reviewCounter)
     let i=1
     reviewName.innerHTML = "Sarthak"
     reviewImg.src = "./static/media/sarthak.svg"
@@ -21,7 +20,6 @@ function showNextReview() {
         if (i-reviewCounter==1) {
             reviewDot.style.backgroundColor = "white"
             reviewDot.style.opacity = "1"
-            console.log("hehehe")
             break
         }
         else {
