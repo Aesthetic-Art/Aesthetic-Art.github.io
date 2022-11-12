@@ -12,6 +12,8 @@ for (let j = 0; j<reviewDots.length; j++){
     }
 }
 
+console.log(reviewCounter)
+
 function showNextReview() {
     let i=1
     reviewName.innerHTML = "Sarthak"
