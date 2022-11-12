@@ -17,7 +17,7 @@ function showNextReview() {
             reviewDot.style.opacity = "1"
         }
         else {
-            reviewDot.style.backgroundColor=""
+            reviewDot.style.backgroundColor="#C#"
         }
     }
 }
