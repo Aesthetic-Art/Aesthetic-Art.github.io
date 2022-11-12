@@ -6,7 +6,7 @@ let reviewImg = document.querySelector('.review-img')
 let reviewTxt = document.querySelector('.review-txt')
 let reviewCounter=1
 
-for (let j = 0; j<reviewDots.length; j++){
+for (let j = 0; j<reviewDots.length(); j++){
     if (reviewDots[j].style.backgroundColor == "white") {
         reviewCounter=j+1
     }
