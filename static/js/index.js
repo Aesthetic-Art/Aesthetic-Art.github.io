@@ -11,7 +11,7 @@ function showNextReview() {
     reviewImg.src = "./static/media/sarthak.svg"
     reviewTxt.innerHTML = "Hola"
     if (reviewCounter == 1) {
-        
+        fr
     }
 }
 
