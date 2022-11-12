@@ -375,6 +375,7 @@ body{
 #footer{
     margin-top: 150px;
     align-items: center;
+    justify-content: center;
     display: flex;
 }
 
