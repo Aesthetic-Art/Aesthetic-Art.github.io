@@ -374,7 +374,8 @@ body{
 
 #footer{
     margin-top: 150px;
-    align-items: ;
+    align-items: center;
+    justify-content: center;
 }
 
 .footer-txt{
