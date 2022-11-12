@@ -1,5 +1,5 @@
 const reviews = [{
-    img:""
+    img:"./static/media/apurva.svg"
     name: "Apurva Bidkar",
 }]
 
