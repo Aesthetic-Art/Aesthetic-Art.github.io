@@ -35,10 +35,6 @@
     }
 }
 
-* {
-    overflow-x: hidden;
-}
-
 body{
     margin: 0px;
     background-color: #FCDEC0;
@@ -49,6 +45,7 @@ body{
 * {
     margin-left: 10px;
     margin-right: 10px;
+    overflow-x: hidden;
 }
 
 .sub-heading{
