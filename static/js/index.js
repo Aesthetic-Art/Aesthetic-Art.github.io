@@ -1,9 +1,12 @@
-const reviews = [{
+const reviews = [
+    {
     image: "./static/media/apurva.svg",
     name: "Apurva Bidkar",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
 },
-    
+    {
+
+    }
 ]
 
 let nextReview = document.querySelector('.review-next')
