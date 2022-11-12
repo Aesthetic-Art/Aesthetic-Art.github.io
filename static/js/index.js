@@ -41,7 +41,7 @@ function showPreviousReview() {
     reviewImg.src = "./static/media/sarthak.svg"
     reviewTxt.innerHTML = "Hola"
     for (const reviewDot of reviewDots) {
-        if (i-reviewCounter==1) {
+        if (reviewCounter-i==1) {
             reviewDot.style.backgroundColor = "white"
             reviewDot.style.opacity = "1"
             break
