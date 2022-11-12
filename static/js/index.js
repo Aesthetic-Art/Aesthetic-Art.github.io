@@ -4,4 +4,5 @@ let reviewDots = document.querySelectorAll('.review-dot')
 let reviewName = document.querySelector('.review-name')
 let reviewImg = document.querySelector('.review-img')
 let reviewTxt = document.querySelector('.review-txt')
-let reviewCo
+let reviewCounter = 1
+
