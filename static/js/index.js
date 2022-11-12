@@ -11,7 +11,8 @@ const reviews = [
     },
     {
         image: "./static/media/s.svg",
-        name:"Saiee Nagane"
+        name: "Saiee Nagane",
+        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
     }
 ]
 
