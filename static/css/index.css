@@ -342,11 +342,8 @@ body{
     align-self: center;
 }
 
-.review-previous i{
-    --fa-inverse;
-}
-
 .review-next{
     height: 50px;
     align-self: center;
 }
+
