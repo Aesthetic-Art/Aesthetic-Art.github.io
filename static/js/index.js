@@ -56,7 +56,6 @@ function showPreviousReview() {
         previousReview.style.color="#7D5A50"
     }
 
-    e
 
     for (const reviewDot of reviewDots) {
         if (reviewCounter-i==1) {
