@@ -52,7 +52,9 @@ function showPreviousReview() {
     reviewImg.src = "./static/media/sarthak.svg"
     reviewTxt.innerHTML = "Hola"
 
-    if (reviewCounter==2)
+    if (reviewCounter == 2) {
+        previousReview.
+    }
 
     for (const reviewDot of reviewDots) {
         if (reviewCounter-i==1) {
