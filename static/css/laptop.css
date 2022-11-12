@@ -405,14 +405,14 @@ body{
 
 .review-name{
     font-family: 'Poppins', sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
     color: white;
 }
 
 .review-txt{
     font-family: 'Poppins', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: light;
     color: #C3C3C3;
     text-align: center;
