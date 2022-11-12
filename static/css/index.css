@@ -82,7 +82,9 @@ body{
     background-image:linear-gradient(#E5B299,#E5B299) !important;
 }
 
-.navbar-item-sticky :
+.navbar-item-sticky:hover{
+    
+}
 
 #intro{
     margin-top: 75px;
