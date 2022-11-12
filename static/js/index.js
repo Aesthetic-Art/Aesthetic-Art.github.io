@@ -22,7 +22,9 @@ function showNextReview() {
         previousReview.style.color="white"
     }
 
-    else if (reviewCounter==4)
+    else if (reviewCounter == 4) {
+        
+    }
 
     for (const reviewDot of reviewDots) {
         if (i-reviewCounter==1) {
