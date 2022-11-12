@@ -10,7 +10,7 @@ function showNextReview() {
     reviewName.innerHTML = "Sarthak"
     reviewImg.src = "./static/media/sarthak.svg"
     reviewTxt.innerHTML = "Hola"
-    
+    for (let i=)
 }
 
 function showPreviousReview() {
