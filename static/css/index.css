@@ -50,7 +50,6 @@ body{
 
 .navbar-item a{
     text-decoration: none;
-    font-family: 'Crimson Pro',sans-serif;
     background-image:linear-gradient(white,white);
     background-repeat: no-repeat;
     background-position-x: 100%;
