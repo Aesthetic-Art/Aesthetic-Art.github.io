@@ -69,6 +69,7 @@ body{
 .sticky{
     position: fixed;
     top: 0;
+    left: 0;
     width: 100%;
     background-color: #E5B299;
     z-index: 1;
