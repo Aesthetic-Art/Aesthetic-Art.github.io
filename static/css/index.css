@@ -444,6 +444,21 @@ body{
     opacity: 0.3;
 }
 
+#contact{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    align-items: center;
+}
+
+#contact-icons{
+    width:70%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
 #footer{
     margin-top: 150px;
     align-items: center;
