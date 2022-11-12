@@ -471,7 +471,7 @@ body{
 
 .flip-container:hover .flipper,
 .flip-container.hover .flipper {
-    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
 }
 
 .flip-container,
@@ -484,8 +484,8 @@ img {
 /* flip speed */
 
 .flipper {
-    -webkit-transition: 1.5s;
-    -webkit-transform-style: preserve-3d;
+    transition: 1.5s;
+    transform-style: preserve-3d;
     position: relative;
 }
 /* hide back  during flip */
