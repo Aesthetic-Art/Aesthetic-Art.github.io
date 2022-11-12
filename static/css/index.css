@@ -3,6 +3,7 @@ body{
     background-color: #FCDEC0;
     overflow-x: hidden;
     padding-bottom: 30px;
+    paddin
 }
 
 * {
@@ -18,7 +19,6 @@ body{
 
 #navbar{
     display: flex;
-    margin-top: 50px;
 }
 
 #navbar-logo{
