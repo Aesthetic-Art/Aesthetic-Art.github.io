@@ -144,7 +144,7 @@ body{
 
 #intro-svg{
     height: 700px;
-    width: fit-content;
+    max-width: fit-content;
 }
 
 #order-now-btn{
