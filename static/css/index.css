@@ -348,5 +348,6 @@ body{
 }
 
 #review-title{
+    width: 50%;
     justify-content: right;
 }
