@@ -343,6 +343,6 @@ body{
 }
 
 .review-next{
-    align-items: center;
-    justify-content: center;
+    height: 50px;
+    align-self: center;
 }
