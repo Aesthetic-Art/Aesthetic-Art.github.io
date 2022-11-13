@@ -376,7 +376,7 @@ body{
 }
 
 .review-previous{
-    height: 50px;
+    height: 30px;
     align-self: center;
     transition: 0.7s;
 }
