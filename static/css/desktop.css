@@ -68,7 +68,7 @@
   }
   
   .circles li:nth-child(2) {
-    background: var(--base-purple);
+    background: #B4846C;
     left: 10%;
     width: 20px;
     height: 20px;
