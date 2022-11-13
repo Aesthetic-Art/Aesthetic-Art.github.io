@@ -66,7 +66,7 @@
   }
   
   .circles li:nth-child(1) {
-    background:#7D5A50;
+    background:none;
     left: 25%;
     width: fit-content;
     height: fit-content;
