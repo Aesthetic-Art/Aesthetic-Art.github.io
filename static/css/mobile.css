@@ -336,7 +336,7 @@ body{
 
 #reviews{
     display: flex;
-    flex-direction: co;
+    flex-direction: column-reverse;
     margin-top: 75px;
     align-items: center;
 }
