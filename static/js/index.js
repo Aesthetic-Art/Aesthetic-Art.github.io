@@ -139,7 +139,7 @@ function showPreviousReview() {
             previousReview.firstElementChild.style.color = "#7D5A50"
         }
     
-        else if (reviewCounter == ) {
+        else if (reviewCounter == 4) {
             nextReview.firstElementChild.style.color="white"
         }
     }
