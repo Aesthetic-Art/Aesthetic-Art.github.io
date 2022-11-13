@@ -379,9 +379,6 @@ body{
     display: none;
 }
 
-.review-previous:hover{
-    transform: rotate(-360deg);
-}
 
 .review-next{
     height: 50px;
