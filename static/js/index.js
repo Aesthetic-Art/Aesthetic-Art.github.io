@@ -130,13 +130,13 @@ function showPreviousReview() {
         }
     
         else if (reviewCounter == 5) {
-            nextReview.lastElementChild.style.color="#7D5A50"
+            nextReview.lastElementChild.style.color="white"
         }
     }
 
     else {
         if (reviewCounter == 2) {
-            previousReview.firstElementChild.style.color = "white"
+            previousReview.firstElementChild.style.color = "#7"
         }
     
         else if (reviewCounter == 5) {
