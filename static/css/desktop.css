@@ -77,7 +77,7 @@
   }
   
   .circles li:nth-child(3) {
-    background: var(--base-pink-2);
+    background: #B4846C;
     left: 70%;
     width: 20px;
     height: 20px;
