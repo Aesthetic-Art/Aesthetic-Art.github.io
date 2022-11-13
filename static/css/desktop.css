@@ -58,6 +58,7 @@
     height: 20px;
     animation: animate 25s linear infinite;
     bottom: -150px;
+    back
   }
   
   .circles li:nth-child(1) {
