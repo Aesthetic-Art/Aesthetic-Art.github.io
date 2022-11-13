@@ -386,7 +386,7 @@ body{
 }
 
 .review-previous{
-    height: 30px;
+    height: 20px;
     align-self: center;
     transition: 0.7s;
     overflow-x: visible !important;;
