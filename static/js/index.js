@@ -83,11 +83,11 @@ function showNextReview() {
     }
 
     else {
-        if (reviewCounter == 2) {
+        if (reviewCounter == 1) {
             previousReview.firstElementChild.style.color = "#7D5A50"
         }
     
-        else if (reviewCounter == 5) {
+        else if (reviewCounter == 4) {
             nextReview.firstElementChild.style.color="white"
         }
     }
