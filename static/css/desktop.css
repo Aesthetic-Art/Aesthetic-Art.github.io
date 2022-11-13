@@ -124,6 +124,7 @@ body{
 #intro{
     margin-top: 75px;
     display: flex;
+    margin-right: 0px;
 }
 
 #intro-txt{
