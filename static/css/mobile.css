@@ -394,7 +394,10 @@ body{
 
 
 .review-next{
-    display: none;
+    height: 20px;
+    align-self: center;
+    transition: 0.7s;
+    overflow-x: visible !important;
 }
 
 #review-title{
