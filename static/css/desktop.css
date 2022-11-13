@@ -62,6 +62,7 @@
 
   .circles li img{
     height: 50px;
+    width: ;
   }
   
   .circles li:nth-child(1) {
