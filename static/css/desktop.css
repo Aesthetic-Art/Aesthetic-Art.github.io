@@ -481,7 +481,7 @@ body{
     margin-top: 50px;
     display: flex;
     justify-content: space-evenly;
-    overflow-x: ;
+    overflow-x: visible !important;
 }
 
 .flip-container {
