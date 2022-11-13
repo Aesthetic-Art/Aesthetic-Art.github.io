@@ -120,9 +120,9 @@ function showPreviousReview() {
     reviewImg.src = reviews[reviewCounter-2]['image']
     reviewTxt.innerHTML = reviews[reviewCounter - 2]['text']
     
-    const bigScreen = window.matchMedia('(max-width:1200px)')
+    const smallScreen = window.matchMedia('(max-width:1200px)')
 
-    console.log(bigScreen.matches)
+    console.log(smallScreen.matches)
     
     if (bigScreen.matches) {
         if (reviewCounter == 1) {
