@@ -474,6 +474,7 @@ body{
     flex-direction: column;
     margin-top: 100px;
     align-items: center;
+    overflow-x: visible !important;
 }
 
 #contact-icons{
