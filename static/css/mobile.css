@@ -376,9 +376,7 @@ body{
 }
 
 .review-previous{
-    height: 30px;
-    align-self: center;
-    transition: 0.7s;
+    display: none;
 }
 
 .review-previous:hover{
