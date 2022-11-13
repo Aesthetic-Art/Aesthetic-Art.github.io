@@ -61,8 +61,8 @@
   }
 
   .circles li img{
-    height: fit-content;
-    width: fit-content;
+    height: 50px;
+    width: 50px;
   }
   
   .circles li:nth-child(1) {
