@@ -370,7 +370,7 @@
     animation-delay: 3s;
   }
   
-  .circles li:nth-child(17) {
+  .circles li:nth-child(37) {
     background: none;
     left: 35%;
     width: fit-content;
@@ -378,7 +378,7 @@
     animation-delay: 7s;
   }
   
-  .circles li:nth-child((3) {
+  .circles li:nth-child(38) {
     background: none;
     left: 50%;
     width: fit-content;
