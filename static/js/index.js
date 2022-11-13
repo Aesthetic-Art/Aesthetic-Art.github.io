@@ -78,7 +78,7 @@ function showNextReview() {
         }
     
         else if (reviewCounter == 4) {
-            nextReview.lastElementChild.style.color="white"
+            nextReview.lastElementChild.style.color="#"
         }
     }
 
