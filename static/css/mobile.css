@@ -157,7 +157,7 @@ body{
 } 
 
 #intro-svg{
-    height: 500px;
+    display: none;
 }
 
 #landing-svg{
