@@ -151,6 +151,10 @@ body{
     margin-right: 0px;
 }
 
+#landing-svg{
+    display: none;
+}
+
 #order-now-btn{
     margin-top: 50px;
     width: 40%;
