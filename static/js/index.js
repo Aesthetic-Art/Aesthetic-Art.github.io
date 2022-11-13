@@ -20,8 +20,8 @@ function myFunction() {
 
 const reviews = [
     {
-        image: "./static/media/apurva.svg",
-        name: "Apurva Bidkar",
+        image: "./static/media/a.svg",
+        name: "Apurva",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
     },
     {
@@ -31,12 +31,12 @@ const reviews = [
     },
     {
         image: "./static/media/s.svg",
-        name: "Saiee Nagane",
+        name: "Shreya Nagarkar",
         text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
     },
     {
         image: "./static/media/s.svg",
-        name: "Saiee Nagane",
+        name: "Ojaswini",
         text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
     },
     {
