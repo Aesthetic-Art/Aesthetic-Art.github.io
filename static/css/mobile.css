@@ -302,7 +302,7 @@ body{
 }
 
 .product-img{
-    overflow-x: ;
+    overflow-x: visible !important;
 }
 .product-img-outer-box{
     background-color: #B4846C;
