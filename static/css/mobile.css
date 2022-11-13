@@ -256,12 +256,12 @@ body{
     margin-top: 50px;
     overflow-x: visible !important;
     text-align: center;
-    margin-left: 0px;
 }
 
 .product-info{
     width: 100%;
     text-align: center;
+    margin-left: 0px;
 }
 
 .product-title{
