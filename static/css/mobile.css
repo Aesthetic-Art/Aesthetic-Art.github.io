@@ -342,7 +342,7 @@ body{
 }
 
 .review-container{
-    width: 50%;
+    width: 100%;
     display: flex;
     background-color: #7D5A50;
     border-radius: 5%;
