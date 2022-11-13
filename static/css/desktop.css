@@ -187,8 +187,8 @@
   .circles li:nth-child(15) {
     background: none;
     left: 65%;
-    width: 20px;
-    height: 20px;
+    width: fit-content;
+    height: fit-content;
     animation-delay: 0s;
   }
   
@@ -203,7 +203,7 @@
   .circles li:nth-child(17) {
     background: none;
     left: 35%;
-    wiwidth: fit-content;
+    width: fit-content;
     height: fit-content;
     animation-delay: 7s;
   }
