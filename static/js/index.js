@@ -26,12 +26,12 @@ const reviews = [
     },
     {
         image: "./static/media/sarthak.svg",
-        name: "Sarthak Karandikar",
+        name: "Sarthak",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
     },
     {
         image: "./static/media/s.svg",
-        name: "Shreya Nagarkar",
+        name: "Shreya",
         text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
     },
     {
@@ -41,7 +41,7 @@ const reviews = [
     },
     {
         image: "./static/media/s.svg",
-        name: "Saiee Nagane",
+        name: "Sai",
         text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
     }
 ]
