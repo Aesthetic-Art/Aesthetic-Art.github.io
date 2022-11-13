@@ -129,8 +129,8 @@ function showPreviousReview() {
             previousReview.lastElementChild.style.color = "white"
         }
     
-        else if (reviewCounter == 5) {
-            nextReview.lastElementChild.style.color="white"
+        else if (reviewCounter == 4) {
+            nextReview.lastElementChild.style.color=""
         }
     }
 
