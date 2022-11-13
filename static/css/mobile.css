@@ -253,6 +253,7 @@ body{
     position: relative;
     height: 500px;
     margin-top: 50px;
+    overflow-x: visible !important;
 }
 .product-info{
     width: 100%;
