@@ -381,13 +381,7 @@ body{
 
 
 .review-next{
-    height: 50px;
-    align-self: center;
-    transition: 0.7s;
-}
-
-.review-next:hover{
-    transform: rotate(360deg);
+    display: none;
 }
 
 #review-title{
