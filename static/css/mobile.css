@@ -410,6 +410,7 @@ body{
     flex-direction: column;
     margin-top: 75px;
     align-items: center;
+    
 }
 
 #contact-icons{
@@ -417,6 +418,7 @@ body{
     margin-top: 50px;
     display: flex;
     justify-content: space-evenly;
+    overflow-x: visible !important;
 }
 
 .flip-container {
