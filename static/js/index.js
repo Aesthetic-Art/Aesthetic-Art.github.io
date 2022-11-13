@@ -84,7 +84,7 @@ function showNextReview() {
 
     else {
         if (reviewCounter == 1) {
-            previousReview.lastElementChild.style.color = "white"
+            previousReview.firstElementChild.style.color = "white"
         }
     
         else if (reviewCounter == 4) {
