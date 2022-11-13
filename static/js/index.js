@@ -126,7 +126,7 @@ function showPreviousReview() {
     
     if (smallScreen.matches) {
         if (reviewCounter == 2) {
-            previousReview.lastElementChild.style.color = "white"
+            previousReview.lastElementChild.style.color = "#7D5A50"
         }
     
         else if (reviewCounter == 5) {
