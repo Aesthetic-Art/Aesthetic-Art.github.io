@@ -65,7 +65,7 @@
     width: 20px;
     height: 20px;
     animation-delay: 0s;
-    border-radius: ;
+    border-radius: 100%;
   }
   
   .circles li:nth-child(2) {
