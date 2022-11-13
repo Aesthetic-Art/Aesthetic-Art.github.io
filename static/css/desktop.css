@@ -362,7 +362,7 @@
     animation-delay: 0s;
   }
   
-  .circles li:nth-child((3) {
+  .circles li:nth-child(36) {
     background: none;
     left: 75%;
     width: fit-content;
