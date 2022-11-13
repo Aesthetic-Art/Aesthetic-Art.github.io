@@ -440,6 +440,7 @@ body{
     height: 50px;
     align-self: center;
     transition: 0.7s;
+    overflow-x: ;
 }
 
 .review-next:hover{
