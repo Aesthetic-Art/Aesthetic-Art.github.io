@@ -59,6 +59,10 @@
     animation: animate 25s linear infinite;
     bottom: -150px;
   }
+
+  .circles li img{
+    
+  }
   
   .circles li:nth-child(1) {
     background:#7D5A50;
