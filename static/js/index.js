@@ -106,7 +106,13 @@ function showPreviousReview() {
     const bigScreen = window.matchMedia('(max-width:1200px)')
     
     if (bigScreen.matches) {
-        
+        if (reviewCounter == 2) {
+            previousReview.lastElementChild.style.color = "#7D5A50"
+        }
+    
+        else if (reviewCounter == 5) {
+            nextReview.firstElementChild.style.color="white"
+        }
     }
 
     if (reviewCounter == 2) {
