@@ -104,7 +104,8 @@ function showPreviousReview() {
     reviewTxt.innerHTML = reviews[reviewCounter-2]['text']
 
     if (reviewCounter == 2) {
-        previousReview.firstElementChild.style.color="#7D5A50"
+        previousReview.firstElementChild.style.color = "#7D5A50"
+        previousReview.ele
     }
 
     else if (reviewCounter == 5) {
