@@ -70,7 +70,7 @@ body{
 #navbar-list{
     width: 100%;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: center;
     display: flex;
     overflow-x: visible !important;
     margin-right: 0px;
