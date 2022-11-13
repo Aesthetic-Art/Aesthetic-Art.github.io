@@ -105,7 +105,7 @@ function showPreviousReview() {
     
     const bigScreen = window.matchMedia('(max-width:1200px)')
     
-    if bigScreen.matches)
+    if (bigScreen.matches)
 
     if (reviewCounter == 2) {
         previousReview.firstElementChild.style.color = "#7D5A50"
