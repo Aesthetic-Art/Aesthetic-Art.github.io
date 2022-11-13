@@ -342,6 +342,7 @@ body{
 }
 
 .review-container{
+    margin-top: 50px;
     width: 100%;
     display: flex;
     background-color: #7D5A50;
