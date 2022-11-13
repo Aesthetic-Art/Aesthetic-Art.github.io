@@ -334,28 +334,6 @@ body{
     margin-top: 100px;
 }
 
-#bookmarks-img{
-    left: 620px;
-    bottom: 80px;
-}
-
-#polaroids-img{
-    right: 650px;
-    top: 30px;
-}
-
-#polaroids-container{
-    flex-direction: row-reverse
-}
-
-#bookmarks-info{
-    margin-left: 50px;
-}
-
-#polaroids-info{
-    margin-right: 50px;
-}
-
 #reviews{
     display: flex;
     margin-top: 300px;
