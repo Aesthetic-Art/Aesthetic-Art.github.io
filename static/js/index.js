@@ -136,7 +136,7 @@ function showPreviousReview() {
 
     else {
         if (reviewCounter == 1) {
-            previousReview.firstElementChild.style.color = "#7D5A50"
+            previousReview.firstElementChild.style.color = "white"
         }
     
         else if (reviewCounter == 4) {
