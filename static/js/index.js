@@ -140,7 +140,7 @@ function showPreviousReview() {
         }
     
         else if (reviewCounter == 4) {
-            nextReview.firstElementChild.style.color="white"
+            nextReview.firstElementChild.style.color="#7D5A50"
         }
     }
 
