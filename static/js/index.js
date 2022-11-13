@@ -68,6 +68,8 @@ function showNextReview() {
     reviewImg.src = reviews[reviewCounter]['image']
     reviewTxt.innerHTML = reviews[reviewCounter]['text']
 
+    console.log(b)
+
     if (bigScreen.matches) {
         if (reviewCounter == 2) {
             previousReview.lastElementChild.style.color = "#7D5A50"
