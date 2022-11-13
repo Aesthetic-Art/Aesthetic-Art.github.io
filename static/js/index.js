@@ -72,8 +72,8 @@ function showNextReview() {
 
     console.log(smallScreen.matches)
 
-    if (bigScreen.matches) {
-        if (reviewCounter == 2) {
+    if (smallScreen.matches) {
+        if (reviewCounter == 1) {
             previousReview.lastElementChild.style.color = "#7D5A50"
         }
     
