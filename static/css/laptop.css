@@ -145,7 +145,10 @@ body{
 
 #intro-svg{
     height: 700px;
-    
+}
+
+#landing-svg{
+    display: none;
 }
 
 #order-now-btn{
