@@ -193,7 +193,7 @@
   }
   
   .circles li:nth-child(16) {
-    background: var(--base-pink-2);
+    background: none;
     left: 75%;
     width: 110px;
     height: 110px;
@@ -201,7 +201,7 @@
   }
   
   .circles li:nth-child(17) {
-    background: var(--base-pink-1);
+    background: none;
     left: 35%;
     width: 150px;
     height: 150px;
