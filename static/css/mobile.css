@@ -156,6 +156,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin-left: 0px;
 } 
 
 #intro-svg{
