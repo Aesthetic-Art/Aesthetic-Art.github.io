@@ -42,6 +42,7 @@
     z-index: -999;
     position: fixed;
     top: 0;
+    list-style-type: circle;
     left: 0;
     width: 100vw;
     height: 100vh;
@@ -52,7 +53,6 @@
     z-index: -999;
     position: absolute;
     display: block;
-    list-style-type: circle;
     width: 20px;
     height: 20px;
     animation: animate 25s linear infinite;
