@@ -233,6 +233,7 @@ body{
 #products-title{
     width: 100%;
     text-align: center;
+    margin-left: 0px;
 }
 
 .product-panel{
