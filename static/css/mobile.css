@@ -165,7 +165,7 @@ body{
 
 #landing-svg{
     height: 350px;
-    width: fit-content;
+    width: 100%;
     margin-left: 0px;
 }
 
