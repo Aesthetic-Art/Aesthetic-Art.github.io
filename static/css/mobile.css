@@ -145,9 +145,10 @@ body{
 
 #intro-heading{
     font-family: 'Montserrat', sans-serif;
-    font-size: 40px;
+    font-size: 20px;
     font-weight: bolder;
     color: #7D5A50;
+    text-align: center;
 }
 
 #intro-img{
