@@ -68,9 +68,9 @@ function showNextReview() {
     reviewImg.src = reviews[reviewCounter]['image']
     reviewTxt.innerHTML = reviews[reviewCounter]['text']
 
-    const bigScreen = window.matchMedia('(max-width:1200px)')
+    const smallScreen = window.matchMedia('(max-width:1200px)')
 
-    console.log(bigScreen.matches)
+    console.log(smallScreen.matches)
 
     if (bigScreen.matches) {
         if (reviewCounter == 2) {
