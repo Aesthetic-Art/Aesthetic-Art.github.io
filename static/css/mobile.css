@@ -396,6 +396,8 @@ body{
 
 
 .review-next{
+    margin-left: 0px;
+    margin-right: 0px;
     height: 20px;
     align-self: center;
     transition: 0.7s;
