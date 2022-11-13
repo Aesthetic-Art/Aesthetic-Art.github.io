@@ -240,7 +240,7 @@ body{
     display: flex;
     flex-direction: column;
     background-color: #7D5A50;
-    width:80%;
+    width:100%;
     align-items: center;
     margin: auto;
 }
