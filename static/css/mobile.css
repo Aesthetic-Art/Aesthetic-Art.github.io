@@ -78,6 +78,7 @@ body{
 #navbar-list-items{
     list-style-type: none;
     display: flex;
+    overflow-x: visible !important;
 }
 
 .navbar-item{
