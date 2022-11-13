@@ -396,7 +396,7 @@
     animation-duration: 35s;
   }
   
-  .circles li:nth-child(20) {
+  .circles li:nth-child(2*20) {
     background: none;
     left: 85%;
     width: fit-content;
