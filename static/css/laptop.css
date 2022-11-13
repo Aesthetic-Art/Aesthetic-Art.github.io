@@ -425,6 +425,14 @@ body{
     text-align: center;
 }
 
+#review-previous-icon-2{
+    display: none;
+}
+
+#review-next-icon-1{
+    display: none;
+}
+
 .review-previous{
     height: 50px;
     align-self: center;
