@@ -217,6 +217,7 @@ body{
 
 #products{
     margin-top: 150px;
+    overflow-x: visible !important;
 }
 
 #products-title{
