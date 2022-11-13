@@ -162,7 +162,7 @@ body{
 
 #order-now-btn{
     margin-top: 50px;
-    width: 40%;
+    width: 50%;
     background-color: #7D5A50;
     color: white;
     font-family: 'Poppins', sans-serif;
@@ -170,7 +170,7 @@ body{
     padding: 15px;
     font-size: medium;
     border: none;
-    text
+    text-align: center;
 }
 
 #order-now-btn a{
