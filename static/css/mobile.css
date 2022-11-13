@@ -80,6 +80,7 @@ body{
     display: flex;
     overflow-x: visible !important;
     align-items: center;
+    justify-content: center;
 }
 
 .navbar-item{
