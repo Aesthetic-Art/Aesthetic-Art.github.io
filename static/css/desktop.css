@@ -83,7 +83,7 @@
   }
   
   .circles li:nth-child(3) {
-    background: #B4846C;
+    background: none;
     left: 70%;
     width: 20px;
     height: 20px;
@@ -91,7 +91,7 @@
   }
   
   .circles li:nth-child(4) {
-    background: #E5B299;
+    background: none;
     left: 40%;
     width: 20px;
     height: 20px;
