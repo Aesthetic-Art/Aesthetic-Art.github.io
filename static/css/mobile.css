@@ -332,15 +332,7 @@ body{
     margin-top: 100px;
 }
 
-#vintage-brass-frame-img{
-    left: 620px;
-    bottom: 80px;
-}
 
-#mobile-backcover-img{
-    right: 650px;
-    top: 30px;
-}
 
 #mobile-backcover-container{
     flex-direction: row-reverse
