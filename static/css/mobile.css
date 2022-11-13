@@ -387,7 +387,13 @@ body{
     text-align: justify;
 }
 
-#review-previous-icon-1
+#review-previous-icon-1{
+    display: none;
+}
+
+#review-previous-icon-1{
+    display: none;
+}
 
 .review-previous{
     margin-left: 0px;
