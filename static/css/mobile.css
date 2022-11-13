@@ -324,15 +324,6 @@ body{
 }
 
 
-#transparent-frame-container{
-    flex-direction: row-reverse;
-}
-
-#transparent-frame-img{
-    right: 650px;
-    top: 30px;
-}
-
 
 #product-panel-2{
     margin-top: 400px;
