@@ -143,8 +143,6 @@ body{
 #intro-img{
     width: 55%;
     justify-content: right;
-    margin: 0px !important;
-    overflow-x: visible !important;
 } 
 
 #intro-svg{
