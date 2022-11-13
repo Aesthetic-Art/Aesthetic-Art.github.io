@@ -501,6 +501,7 @@ body{
     margin: 0px;
     width: 80px;
     height: 80px;
+    overflow-x: visible !important;
 }
 
 .flipper {
