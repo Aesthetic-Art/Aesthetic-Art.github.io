@@ -323,11 +323,6 @@ body{
     height: 500px;
 }
 
-#spotify-plaque-img{
-    left: 620px;
-    bottom: 80px;
-}
-
 
 #transparent-frame-container{
     flex-direction: row-reverse;
