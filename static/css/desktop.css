@@ -31,6 +31,20 @@
     }
 }
 
+@keyframes animate {
+    0% {
+      transform: translateY(0) rotate(0deg);
+      opacity: 1;
+      border-radius: 0;
+    }
+  
+    100% {
+      transform: translateY(-2000px) rotate(720deg);
+      opacity: 0;
+      border-radius: 50%;
+    }
+  }
+
 .area {
     z-index: -999;
     background: black;
@@ -403,20 +417,6 @@
     height: fit-content;
     animation-delay: 0s;
     animation-duration: 11s;
-  }
-  
-  @keyframes animate {
-    0% {
-      transform: translateY(0) rotate(0deg);
-      opacity: 1;
-      border-radius: 0;
-    }
-  
-    100% {
-      transform: translateY(-2000px) rotate(720deg);
-      opacity: 0;
-      border-radius: 50%;
-    }
   }
 
 body{

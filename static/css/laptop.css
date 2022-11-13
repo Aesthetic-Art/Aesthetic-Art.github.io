@@ -31,6 +31,395 @@
     }
 }
 
+@keyframes animate {
+    0% {
+      transform: translateY(0) rotate(0deg);
+      opacity: 1;
+      border-radius: 0;
+    }
+  
+    100% {
+      transform: translateY(-2000px) rotate(720deg);
+      opacity: 0;
+      border-radius: 50%;
+    }
+  }
+
+.area {
+    z-index: -999;
+    background: black;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .circles {
+    z-index: -999;
+    position: fixed;
+    top: 0;
+    list-style-type: circle;
+    list-style: circle;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .circles li {
+    z-index: -999;
+    position: absolute;
+    display: block;
+    width: 20px;
+    height: 20px;
+    animation: animate 25s linear infinite;
+    bottom: -150px;
+  }
+
+  .circles li img{
+    height: 70px;
+    width: 70px;
+  }
+  
+  .circles li:nth-child(1) {
+    background:none;
+    left: 25%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+  }
+  
+  .circles li:nth-child(2) {
+    background:none;
+    left: 10%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 2s;
+    animation-duration: 12s;
+  }
+  
+  .circles li:nth-child(3) {
+    background: none;
+    left: 70%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 4s;
+  }
+  
+  .circles li:nth-child(4) {
+    background: none;
+    left: 40%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+    animation-duration: 18s;
+  }
+  
+  .circles li:nth-child(5) {
+    background: none;
+    left: 65%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+  }
+  
+  .circles li:nth-child(6) {
+    background: none;
+    left: 75%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 3s;
+  }
+  
+  .circles li:nth-child(7) {
+    background: none;
+    left: 35%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 7s;
+  }
+  
+  .circles li:nth-child(8) {
+    background: none;
+    left: 50%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 15s;
+    animation-duration: 45s;
+  }
+  
+  .circles li:nth-child(9) {
+    background: none;
+    left: 20%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 2s;
+    animation-duration: 35s;
+  }
+  
+  .circles li:nth-child(10) {
+    background: none;
+    left: 85%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+    animation-duration: 11s;
+  }
+  
+  .circles li:nth-child(11) {
+    background: none;
+    left: 25%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+  }
+  
+  .circles li:nth-child(12) {
+    background: none;
+    left: 10%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 2s;
+    animation-duration: 12s;
+  }
+  
+  .circles li:nth-child(13) {
+    background: none;
+    left: 70%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 4s;
+  }
+  
+  .circles li:nth-child(14) {
+    background: none;
+    left: 40%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+    animation-duration: 18s;
+  }
+  
+  .circles li:nth-child(15) {
+    background: none;
+    left: 65%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+  }
+  
+  .circles li:nth-child(16) {
+    background: none;
+    left: 75%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 3s;
+  }
+  
+  .circles li:nth-child(17) {
+    background: none;
+    left: 35%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 7s;
+  }
+  
+  .circles li:nth-child(18) {
+    background: none;
+    left: 50%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 15s;
+    animation-duration: 45s;
+  }
+  
+  .circles li:nth-child(19) {
+    background: none;
+    left: 20%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 2s;
+    animation-duration: 35s;
+  }
+  
+  .circles li:nth-child(20) {
+    background: none;
+    left: 85%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+    animation-duration: 11s;
+  }
+
+  .circles li:nth-child(21) {
+    background:none;
+    left: 25%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+  }
+  
+  .circles li:nth-child(22) {
+    background:none;
+    left: 10%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 2s;
+    animation-duration: 12s;
+  }
+  
+  .circles li:nth-child(23) {
+    background: none;
+    left: 70%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 4s;
+  }
+  
+  .circles li:nth-child(24) {
+    background: none;
+    left: 40%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+    animation-duration: 18s;
+  }
+  
+  .circles li:nth-child(5) {
+    background: none;
+    left: 65%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+  }
+  
+  .circles li:nth-child(6) {
+    background: none;
+    left: 75%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 3s;
+  }
+  
+  .circles li:nth-child(27) {
+    background: none;
+    left: 35%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 7s;
+  }
+  
+  .circles li:nth-child(28) {
+    background: none;
+    left: 50%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 15s;
+    animation-duration: 45s;
+  }
+  
+  .circles li:nth-child(29) {
+    background: none;
+    left: 20%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 2s;
+    animation-duration: 35s;
+  }
+  
+  .circles li:nth-child(30) {
+    background: none;
+    left: 85%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+    animation-duration: 11s;
+  }
+  
+  .circles li:nth-child(31) {
+    background: none;
+    left: 25%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+  }
+  
+  .circles li:nth-child(32) {
+    background: none;
+    left: 10%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 2s;
+    animation-duration: 12s;
+  }
+  
+  .circles li:nth-child(33) {
+    background: none;
+    left: 70%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 4s;
+  }
+  
+  .circles li:nth-child(34) {
+    background: none;
+    left: 40%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+    animation-duration: 18s;
+  }
+  
+  .circles li:nth-child(35) {
+    background: none;
+    left: 65%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+  }
+  
+  .circles li:nth-child(36) {
+    background: none;
+    left: 75%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 3s;
+  }
+  
+  .circles li:nth-child(37) {
+    background: none;
+    left: 35%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 7s;
+  }
+  
+  .circles li:nth-child(38) {
+    background: none;
+    left: 50%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 15s;
+    animation-duration: 45s;
+  }
+  
+  .circles li:nth-child(39) {
+    background: none;
+    left: 20%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 2s;
+    animation-duration: 35s;
+  }
+  
+  .circles li:nth-child(40) {
+    background: none;
+    left: 85%;
+    width: fit-content;
+    height: fit-content;
+    animation-delay: 0s;
+    animation-duration: 11s;
+  }
+  
+
 body{
     width: 100%;
     margin: 0px;
