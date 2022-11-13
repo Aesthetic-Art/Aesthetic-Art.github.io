@@ -71,6 +71,7 @@ body{
     align-items: center;
     justify-content: flex-end;
     display: flex;
+    overflow-x: visible !important;
 }
 
 #navbar-list-items{
