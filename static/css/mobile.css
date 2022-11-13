@@ -243,6 +243,7 @@ body{
     width:100%;
     align-items: center;
     margin: auto;
+    overflow-x: visible !important;
 }
 
 .product-container{
