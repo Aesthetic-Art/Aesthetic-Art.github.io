@@ -124,7 +124,7 @@ function showPreviousReview() {
 
     console.log(smallScreen.matches)
     
-    if (bigScreen.matches) {
+    if (smallScreen.matches) {
         if (reviewCounter == 1) {
             previousReview.lastElementChild.style.color = "white"
         }
