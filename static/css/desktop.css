@@ -61,7 +61,7 @@
   }
   
   .circles li:nth-child(1) {
-    background-image: url('/static/media/gift.png');
+    background:none;
     left: 25%;
     width: 20px;
     height: 20px;
