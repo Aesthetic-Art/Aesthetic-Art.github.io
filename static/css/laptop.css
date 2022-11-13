@@ -395,7 +395,7 @@ body{
     display: flex;
     background-color: #7D5A50;
     border-radius: 5%;
-    overflow-x: visible I !important;
+    overflow-x: visible !important;
 }
 
 .review-body{
