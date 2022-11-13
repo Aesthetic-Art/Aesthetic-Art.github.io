@@ -110,16 +110,16 @@
   .circles li:nth-child(6) {
     background: none;
     left: 75%;
-    width: 110px;
-    height: 110px;
+    width: fit-content;
+    height: fit-content;
     animation-delay: 3s;
   }
   
   .circles li:nth-child(7) {
     background: none;
     left: 35%;
-    width: 150px;
-    height: 150px;
+    width: fit-content;
+    height: fit-content;
     animation-delay: 7s;
   }
   
