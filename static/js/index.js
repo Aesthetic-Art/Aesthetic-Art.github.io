@@ -129,17 +129,17 @@ function showPreviousReview() {
             previousReview.lastElementChild.style.color = "white"
         }
     
-        else if (reviewCounter == 4) {
+        else if (reviewCounter == 5) {
             nextReview.lastElementChild.style.color="#7D5A50"
         }
     }
 
     else {
-        if (reviewCounter == 1) {
+        if (reviewCounter == 2) {
             previousReview.firstElementChild.style.color = "white"
         }
     
-        else if (reviewCounter == 4) {
+        else if (reviewCounter == 5) {
             nextReview.firstElementChild.style.color="#7D5A50"
         }
     }
