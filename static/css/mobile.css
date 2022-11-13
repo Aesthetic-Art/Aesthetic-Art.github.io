@@ -152,8 +152,8 @@ body{
 }
 
 #intro-img{
-    width: 55%;
-    justify-content: right;
+    width: 100%;
+    justify-content: center;
     margin-right: 0px !important;
 } 
 
