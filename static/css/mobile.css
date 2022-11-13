@@ -303,6 +303,7 @@ body{
 }
 
 .product-img{
+    width: 80%;
     overflow-x: visible !important;
 }
 .product-img-outer-box{
