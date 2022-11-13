@@ -435,8 +435,9 @@ body{
 .back,
 .social-icon-image {
     margin: 0px;
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
+    overflow-x: visible !important;
 }
 
 .flipper {
