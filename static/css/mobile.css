@@ -472,6 +472,10 @@ body{
     flex-direction: column;
 }
 
+#footer-seperator{
+    display: none;
+}
+
 .footer-txt{
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
