@@ -143,7 +143,7 @@ body{
 #intro-img{
     width: 55%;
     justify-content: right;
-    margin-right: 0px !important;
+    margin: 0px !important;
     overflow-x: visible !important;
 } 
 
