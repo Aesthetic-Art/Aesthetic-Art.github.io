@@ -144,6 +144,7 @@ body{
     width: 55%;
     justify-content: right;
     margin-right: 0px !important;
+    overflow-x: visible Im !important;
 } 
 
 #intro-svg{
