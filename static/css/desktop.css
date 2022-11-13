@@ -87,8 +87,8 @@
   .circles li:nth-child(4) {
     background: var(--base-pink-1);
     left: 40%;
-    width: 60px;
-    height: 60px;
+    width: 20px;
+    height: 20px;
     animation-delay: 0s;
     animation-duration: 18s;
   }
