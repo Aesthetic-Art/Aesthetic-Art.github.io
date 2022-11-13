@@ -103,7 +103,7 @@ function showPreviousReview() {
     reviewImg.src = reviews[reviewCounter-2]['image']
     reviewTxt.innerHTML = reviews[reviewCounter - 2]['text']
     
-    const e
+    const b
 
     if (reviewCounter == 2) {
         previousReview.firstElementChild.style.color = "#7D5A50"
