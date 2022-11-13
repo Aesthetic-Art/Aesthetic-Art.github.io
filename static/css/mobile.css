@@ -301,10 +301,6 @@ body{
     animation: bounce 0.75s;
 }
 
-.product-img{
-    margin-right: -20px !important;
-    margin-bottom: 20px !important;
-}
 
 
 .product-img-outer-box{
@@ -312,7 +308,7 @@ body{
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
 }
 
 .product-img-inner-box{
