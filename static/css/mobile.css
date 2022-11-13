@@ -163,7 +163,8 @@ body{
 }
 
 #landing-svg{
-    height: 400px;tent;
+    height: 400px;
+    width: fit-content;
 }
 
 #order-now-btn{
