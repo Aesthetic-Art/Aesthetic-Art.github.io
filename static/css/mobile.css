@@ -257,9 +257,10 @@ body{
     overflow-x: visible !important;
     text-align: center;
 }
+
 .product-info{
     width: 100%;
-    text-align: left;
+    text-align: center;
 }
 
 .product-title{
