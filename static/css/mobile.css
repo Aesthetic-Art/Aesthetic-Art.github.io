@@ -98,7 +98,7 @@ body{
     background-position-y: 100%;
     background-size: 0% 0.1em;
     transition: background-size 0.2s ease-in-out;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 .navbar-item a:hover{
