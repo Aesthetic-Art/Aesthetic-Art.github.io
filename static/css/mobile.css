@@ -252,7 +252,7 @@ body{
     flex-direction: column-reverse;
     align-items: center;
     position: relative;
-    height: 600px;
+    height: fit-content;
     overflow-x: visible !important;
     text-align: center;
 }
