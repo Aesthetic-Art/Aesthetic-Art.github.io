@@ -228,6 +228,7 @@ body{
 
 #products{
     margin-top: 75px;
+    overflow-x: visible !important;
 }
 
 #products-title{
