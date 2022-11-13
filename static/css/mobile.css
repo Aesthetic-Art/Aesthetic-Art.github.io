@@ -336,7 +336,8 @@ body{
 
 #reviews{
     display: flex;
-    margin-top: 0px;
+    flex-direction: ;
+    margin-top: 75px;
     align-items: center;
 }
 
