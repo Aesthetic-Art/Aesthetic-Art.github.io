@@ -250,7 +250,7 @@ body{
     flex-direction: column-reverse;
     justify-content: space-between;
     position: relative;
-    height: 30px;
+    height: 300px;
     margin-top: 50px;
 }
 .product-info{
