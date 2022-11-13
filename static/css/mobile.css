@@ -386,7 +386,10 @@ body{
 }
 
 .review-previous{
-    display: none;
+    height: 30px;
+    align-self: center;
+    transition: 0.7s;
+    overflow-x: visible !important;;
 }
 
 
