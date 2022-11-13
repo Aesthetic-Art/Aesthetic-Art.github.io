@@ -104,6 +104,8 @@ function showPreviousReview() {
     reviewTxt.innerHTML = reviews[reviewCounter - 2]['text']
     
     const bigScreen = window.matchMedia('(max-width:1200px)')
+
+    console.log(bigScreen.matches)
     
     if (bigScreen.matches) {
         if (reviewCounter == 2) {
