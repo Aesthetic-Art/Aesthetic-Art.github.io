@@ -36,8 +36,8 @@ const reviews = [
     },
     {
         image: "./static/media/apurva.svg",
-        name: "huhuhuhu",
-        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
+        name: "Apurva Bidkar",
+        text:""
     },
     {
         image: "./static/media/s.svg",
