@@ -27,7 +27,7 @@ const reviews = [
     {
         image: "./static/media/atharva.svg",
         name: "Atharva More",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
+        text: "I brought polaroids from them and totally loved them. Along with the quality, the packaging was also aesthetic. Thankyou Aesthetic Art"
     },
     {
         image: "./static/media/s.svg",
