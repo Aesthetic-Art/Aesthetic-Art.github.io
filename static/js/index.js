@@ -32,7 +32,7 @@ const reviews = [
     {
         image: "./static/media/abhijeet.svg",
         name: "Abhijeet Suryavanshi",
-        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
+        text:"Aesthetic Art always delivers "
     },
     {
         image: "./static/media/s.svg",
