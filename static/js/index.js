@@ -20,11 +20,6 @@ function myFunction() {
 
 const reviews = [
     {
-        image: "./static/media/a.svg",
-        name: "Hahaha",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
-    },
-    {
         image: "./static/media/atharva.svg",
         name: "Atharva More",
         text: "I brought polaroids from them and totally loved them. Along with the quality, the packaging was also aesthetic. Thankyou Aesthetic Art"
@@ -38,6 +33,11 @@ const reviews = [
         image: "./static/media/apurva.svg",
         name: "Apurva Bidkar",
         text:"The phone cover I ordered is just amazing. I feel great whenever I pull out my phone now"
+    },
+    {
+        image: "./static/media/a.svg",
+        name: "Hahaha",
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
     },
     {
         image: "./static/media/s.svg",
