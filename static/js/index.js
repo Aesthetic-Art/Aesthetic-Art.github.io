@@ -37,7 +37,7 @@ const reviews = [
     {
         image: "./static/media/apurva.svg",
         name: "Apurva Bidkar",
-        text:""
+        text:"The phone cover I ordered is just amazing. I feel great whenever I pull out my phone now"
     },
     {
         image: "./static/media/s.svg",
