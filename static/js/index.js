@@ -25,8 +25,8 @@ const reviews = [
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
     },
     {
-        image: "./static/media/sarthak.svg",
-        name: "hohohoh",
+        image: "./static/media/atharva.svg",
+        name: "Atharva More",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
     },
     {
