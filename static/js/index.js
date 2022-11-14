@@ -32,10 +32,10 @@ const reviews = [
     {
         image: "./static/media/abhijeet.svg",
         name: "Abhijeet Suryavanshi",
-        text:"Aesthetic Art always delivers quality products along with beautiful packaging"
+        text:"Aesthetic Art always delivers quality products along with beautiful packaging. Very happy with my gift"
     },
     {
-        image: "./static/media/s.svg",
+        image: "./static/media/apurva.svg",
         name: "huhuhuhu",
         text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
     },
