@@ -37,7 +37,7 @@ const reviews = [
     {
         image: "./static/media/nidhi.svg",
         name: "Nidhi Pandhare",
-        text: "I bought a dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
+        text: "I bought a vintage transparent frame dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
     },
     {
         image: "./static/media/s.svg",
