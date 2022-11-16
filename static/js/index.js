@@ -42,7 +42,7 @@ const reviews = [
     {
         image: "./static/media/rutu.svg",
         name: "Rutu Parkhi",
-        text:"A vintage brass frame from Aesthetic Art is all you need for a perfect gift. Beautifully designed and packaged, I just loved itiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
+        text:"A vintage brass frame from Aesthetic Art is all you need for a perfect gift. Beautifully designed and packaged, I just loved it"
     }
 ]
 
