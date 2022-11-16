@@ -40,7 +40,7 @@ const reviews = [
         text: "I bought a vintage transparent frame and genuinely loved it. Aesthetic Art takes utmost care in serving their customers"
     },
     {
-        image: "./static/media/s.svg",
+        image: "./static/media/rutu.svg",
         name: "hihihiih",
         text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet neque orci. Orci varius natoque penatibus et magnis vulputate elementum non a orci"
     }
